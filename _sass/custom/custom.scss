@@ -124,3 +124,142 @@ summary {
     height: 100%;
   }
 }
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+th, tr, td {
+    text-align: left;
+    width: 0;
+    min-width: 0;
+    font-size: 14px;
+    border-width: 1px 0;
+    border-color: #D0D0D0;
+    border-style: solid;
+}
+
+.cal-content {
+    font-size: 12px !important;
+}
+
+.cal-content-link {
+    font-size: 10px !important;
+}
+
+
+// Define defaults for each variable.
+
+$brand-color: black;
+$border-color-01: grey;
+$text-color: black;
+
+$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif !default;
+$code-font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
+$base-font-size:   16px !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+$base-line-height: 1.5 !default;
+
+$spacing-unit:     30px !default;
+
+$table-text-align: left !default;
+
+// Width of the content area
+$content-width:    1200px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
+
+$on-medium:        500px !default;
+$on-between:       700px !default;
+$on-large:         1000px !default;
+
+$base-font-family: Charter, Georgia, serif;
+$post-width: 800px;
+$toc-panel-width: 300px;
+$spacing-unit: 300px;
+$content-width: $post-width + $toc-panel-width + $spacing-unit;
+
+$small-line-height:  $base-line-height * 0.875 !default;
+
+$grey-color:       #828282 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+
+$aside-bg-color: lighten($brand-color, 43%) !default;
+$aside-border-color:    $border-color-01 !default;
+
+.top-toc-title {
+    @media screen and (min-width: $on-large) {
+        display: none;
+    }
+}
+
+.site-nav {
+    // a:hover {
+    //     color: $text-color;
+    //     // text-shadow: 0.25px 0.25px 0.25px black;
+    //     text-decoration: none;
+    //     background-color: rgba(0, 0, 0, 0.05);
+    // }
+
+    // .sticky-toc-title {
+    //     color: $text-color !important;
+    // }
+
+    .active {
+        // color: $text-color;
+        background-image: linear-gradient(-90deg, #ebedf5 0%, rgba(235, 237, 245, 0.8) 80%, rgba(235, 237, 245, 0) 100%);
+        // background-color: rgba(0, 0, 0, 0.05);
+        // border-top: 1px;
+        // border-bottom: 1px;
+    }
+}
+
+.floating-toc {
+    @media screen and (max-width: $on-large) {
+        .sticky-toc-title {
+            display: none;
+        }
+    }
+    @media screen and (min-width: $on-large) {
+        position: sticky;
+        top: 0;
+        margin-right: $spacing-unit;
+        width: $toc-panel-width;
+        flex-shrink: 0;
+
+        line-height: $small-line-height;
+
+        a {
+            font-size: $small-font-size;
+            color: $brand-color;
+            display: block;
+            padding: 5px;
+        }
+
+        a:hover {
+            color: $text-color;
+            // text-shadow: 0.25px 0.25px 0.25px black;
+            text-decoration: none;
+            background-color: rgba(0, 0, 0, 0.05);
+        }
+
+        .sticky-toc-title {
+            color: $text-color !important;
+        }
+
+        .active {
+            color: $text-color;
+            background-color: rgba(0, 0, 0, 0.05);
+            // border-top: 1px;
+            // border-bottom: 1px;
+        }
+    }
+
+    ul {
+        list-style-type: "- ";
+    }
+}

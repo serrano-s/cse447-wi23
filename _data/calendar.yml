@@ -1,0 +1,21 @@
+- week: 1
+  size: 3
+  days:
+    - date: 3/28
+      format: Lecture
+      theme: Introduction
+      topics: Motivation, course overview and requirements
+      slides: 
+      readings: 
+    - date: 3/30
+      format: Lecture
+      theme: 
+      topics: 
+      slides: 
+      readings: 
+    - date: 4/01
+      format: Lecture
+      theme: 
+      topics: 
+      slides: 
+      readings: 

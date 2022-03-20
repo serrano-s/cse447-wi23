@@ -14,15 +14,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Natural Language Processing
-tagline: CSE 447 at the University of Washington, Spring 2022
-description:
+tagline: CSE 447&#58; Natural Language Processing, Spring 2022
+description: 
 author: Ivy Guo
 baseurl: '/cse447-sp22' # the subpath of your site, e.g. /blog
 url: 'https://fiftyloops.github.io' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
 # Theme settings
-remote_theme: just-the-docs/just-the-docs@v0.3.3
+remote_theme: pmarsceill/just-the-docs@v0.3.3
+# theme: minima
 color_scheme: light
 search_enabled: true
 heading_anchors: true
@@ -30,12 +31,26 @@ permalink: pretty
 aux_links:
 footer_content:
 
+quick_links:
+  - name: Textbook
+    url: ""
+  - name: Discussion Board
+    url: ""
+  - name: Canvas
+    url: ""
+  - name: GitLab
+    url: ""
+
 # Collections for website data
 collections:
   staffers:
   modules:
   schedules:
   announcements:
+  assignments:
+    # permalink: "/:collection/:path/"
+    # output: true
+
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -59,6 +74,25 @@ defaults:
       type: announcements
     values:
       layout: announcement
+  - scope:
+      path: ''
+      type: assignments
+    values:
+      layout: default
+
+just_the_docs:
+  # Define which collections are used in just-the-docs
+  collections:
+    # Reference the "docs" collection
+    assignments:
+      # Give the collection a name
+      name: Assignments
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      nav_exclude: false
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      search_exclude: false
 
 compress_html:
   clippings: all

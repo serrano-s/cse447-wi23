@@ -5,9 +5,9 @@
   <div>
     <h3 class="staffer-name">
       {% if page.website %}
-      <a href="{{ page.website }}">{{ page.name }}</a>
+      {{ page.role }}:&nbsp;<a href="{{ page.website }}">{{ page.name }}</a>
       {% else %}
-      {{ page.name }}
+      {{ page.role }}:&nbsp;{{ page.name }}
       {% endif %}
       {% if page.pronouns %}
       <span class="staffer-pronouns">{{ page.pronouns }}</span>

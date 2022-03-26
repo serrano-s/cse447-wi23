@@ -2,20 +2,184 @@
   size: 3
   days:
     - date: 3/28
-      format: Lecture
-      theme: Introduction
-      topics: Motivation, course overview and requirements
+      topics: Introduction
       slides: 
-      readings: 
+      readings:
+        - title: Eis 1
     - date: 3/30
-      format: Lecture
-      theme: 
-      topics: 
+      topics: Introduction
       slides: 
-      readings: 
+      readings:
+        - title: Eis 1
     - date: 4/01
-      format: Lecture
-      theme: 
-      topics: 
+      topics: Text classification
       slides: 
-      readings: 
+      readings:
+        - title: Eis 2
+        - title: J&M III 4
+          link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
+        - title: Pang et al. 2002
+          link: https://www.aclweb.org/anthology/W02-1011/
+      due: HW1 out
+
+- week: 2
+  size: 3
+  days:
+    - date: 4/04
+      topics: "Text classification: linear models"
+      slides: 
+      readings:
+        - title: Eis 2
+        - title: J&M III 4
+          link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
+        - title: Pang et al. 2002
+          link: https://www.aclweb.org/anthology/W02-1011/
+    - date: 4/06
+      topics: "Text classification: non-linear models"
+      slides: 
+      readings:
+    - date: 4/08
+      topics: "Language modeling: ngrams, LM evaluation"
+      slides: 
+      readings:
+
+- week: 3
+  size: 3
+  days:
+    - date: 4/11
+      topics: "Language modeling: neural LMs, RNN"
+      slides: 
+      readings:
+    - date: 4/13
+      topics: "Language modeling: transformers"
+      slides: 
+      readings:
+      due: In-class quiz 1
+    - date: 4/15
+      topics: "Representation learning: lexical semantics; vector semantics and words as vectors"
+      slides: 
+      readings:
+
+- week: 4
+  size: 3
+  days:
+    - date: 4/18
+      topics: "Representation learning: word2vec, fasttex"
+      slides: 
+      readings:
+    - date: 4/20
+      topics: "Representation learning: ELMo, BERT"
+      slides: 
+      readings:
+      due: In-class quiz 2
+    - date: 4/22
+      topics: Morphological analysis
+      slides: 
+      readings:
+      due: HW1 due
+
+- week: 5
+  size: 3
+  days:
+    - date: 4/25
+      topics: "Sequence labeling: parts of speech, HMMS"
+      slides: 
+      readings:
+      due: HW2 out
+    - date: 4/27
+      topics: "Sequence labeling: the Viterbi algorithm"
+      slides: 
+      readings:
+      due: In-class quiz 3
+    - date: 4/29
+      topics: "Sequence labeling: NER, neural POS and NER tagging"
+      slides: 
+      readings:
+
+- week: 6
+  size: 3
+  days:
+    - date: 5/02
+      topics: "Parsing: parsing formalisms, CFGs, PCFGs"
+      slides: 
+      readings:
+    - date: 5/04
+      topics: "Parsing: constituency parsing, CKY"
+      slides: 
+      readings:
+      due: In-class quiz 4
+    - date: 5/06
+      topics: "Parsing: dependency parsing"
+      slides: 
+      readings:
+      due: HW2 due
+
+- week: 7
+  size: 3
+  days:
+    - date: 5/09
+      topics: "Applications: sentiment analysis"
+      slides: 
+      readings:
+      due: HW3 out
+    - date: 5/11
+      topics: "Applications: sentiment analysis"
+      slides: 
+      readings:
+      due: In-class quiz 5
+    - date: 5/13
+      topics: "Applications: toxicity detection"
+      slides: 
+      readings:
+
+- week: 8
+  size: 3
+  days:
+    - date: 5/16
+      topics: "Applications: machine translation"
+      slides: 
+      readings:
+    - date: 5/18
+      topics: "Applications: machine translation"
+      slides: 
+      readings:
+      due: In-class quiz 6
+    - date: 5/20
+      topics: "Applications: summarization"
+      slides: 
+      readings:
+
+- week: 9
+  size: 3
+  days:
+    - date: 5/23
+      topics: Computational social science
+      slides: 
+      readings:
+    - date: 5/25
+      topics: Computational social science
+      slides: 
+      readings:
+      due: In-class quiz 7
+    - date: 5/27
+      topics: Interpretability
+      slides: 
+      readings:
+      due: HW3 due
+
+- week: 10
+  size: 3
+  days:
+    - date: 5/30
+      topics: Memorial day (no class)
+      slides: 
+      readings:
+    - date: 6/01
+      topics: Computational ethics
+      slides: 
+      readings:
+      due: In-class quiz 8
+    - date: 6/03
+      topics: "Computational ethics: bias and fairness"
+      slides: 
+      readings:

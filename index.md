@@ -48,9 +48,9 @@ Calendar is tentative and subject to change. More details will be added as the q
   <tr>
     <th>Week</th>
     <th>Date</th>
-    <th width="20%">Theme</th>
-    <th width="30%">Contents</th>
-    <th width="13%">Work due</th>
+    <th width="30%">Topics & Lecture Slides</th>
+    <th width="20%">Readings</th>
+    <th width="13%">Homeworks</th>
   </tr>
   </thead>
   <tbody>
@@ -61,15 +61,18 @@ Calendar is tentative and subject to change. More details will be added as the q
         <td rowspan="{{week.size}}">{{week.week}}</td>
         {% endif %}
         <td>{{day.date}}</td>
-        <td>{{day.theme}}</td>
         <td class="cal-content">
           {{day.topics}}
           {% if day.slides %}
             <a href="{{day.slides}}" class="cal-content-link">[slides]</a>
           {% endif %}
-          {% if day.readings %}
-            <a href="{{day.readings}}" class="cal-content-link">[readings]</a>
-          {% endif %}
+        </td>
+        <td class="cal-content">
+          {% for reading in day.readings %}
+            {% if reading.link %}<a href="{{reading.link}}" class="cal-content-link">{% endif %}
+              {{reading.title}}{% if forloop.last == false %};{% endif %}
+            {% if reading.link %}</a>{% endif %}
+          {% endfor %}
         </td>
         <td class="cal-content">{{day.due}}</td>
       </tr>

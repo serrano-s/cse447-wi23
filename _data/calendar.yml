@@ -3,7 +3,7 @@
   days:
     - date: 3/28
       topics: Introduction
-      slides: 
+      slides: assets/slides/lec01.pdf
       readings:
         - title: Eis 1
     - date: 3/30

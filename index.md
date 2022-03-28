@@ -92,14 +92,26 @@ Calendar is tentative and subject to change. More details will be added as the q
 ## Assignments/Grading
 
 * Project 1 (sequence classification): 30%
+    - We will build a system for automatically classifying song lyrics comments by era. 
+    - Specifically, we build machine learning _text classifiers_, including both generative and discriminative models, and explore techniques to improve the models.
 * Project 2 (sequence labeling): 30%
+    - We focus on sequence labeling with _Hidden Markov Models_ and some simple deep learning based models. 
+    - Our task is part-of-speech tagging on English and Norwegian from the Universal Dependencies dataset.
+    - We will cover the _Viterbi algorithm_.
 * Project 3 (dependency parsing): 30%
+    - We will implement a transition-based _dependency parser_.
+    - The algorithm would be new and specific to the dependency parsing problem, but the underlying building blocks of the method are still some neural network modules covered in P1 and P2.
 * Quizzes: 10%
+    - Starting from the 3rd week, we will have quizzes on Wednesdays.
+    - There will be 8 quizzes in total.
+    - Quizzes will be released 10 minutes in the beginning of the class.
+    - 5 best quizzes will be counted into final score. Each quiz will occupy 2% of final score. 
+
 * Participation: 10% bonus
 
 ## Policies
 
-* **Late policy.** Each student will be granted 5 late days to use over the duration of the quarter. You can use a maximum of 3 late days on any one project. Weekends and holidays are also counted as late days. Late submissions are automatically considered as using late days. Using late days will not affect your grade. However, projects submitted late after all late days have been used will receive no credit. Be careful!
+* **Late policy.** Each student will be granted **5 late days** to use over the duration of the quarter. You can use a **maximum of 3 late days** on any one project. Weekends and holidays are also counted as late days. Late submissions are automatically considered as using late days. Using late days will not affect your grade. However, projects submitted late after all late days have been used will receive no credit. Be careful!
 
 * **Academic honesty.** Homework assignments are to be completed individually. Verbal collaboration on homework assignments is acceptable, as well as re-implementation of relevant algorithms from research papers, but everything you turn in must be your own work, and you must note the names of anyone you collaborated with on each problem and cite resources that you used to learn about the problem. The project proposal is to be completed by a team. Suspected violations of academic integrity rules will be handled in accordance with [UW guidelines](https://www.washington.edu/cssc/for-students/overview-of-the-student-conduct-process/) on academic misconduct.
 

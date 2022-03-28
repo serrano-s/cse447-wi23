@@ -35,11 +35,11 @@ quick_links:
   - name: Textbook
     url: "https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf"
   - name: Discussion Board
-    url: ""
+    url: "https://edstem.org/us/courses/21345/discussion/1327861"
   - name: Canvas
     url: "https://canvas.uw.edu/courses/1545374"
   - name: GitLab
-    url: ""
+    url: "https://gitlab.cs.washington.edu/"
 
 # Collections for website data
 collections:

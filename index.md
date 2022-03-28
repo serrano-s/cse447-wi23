@@ -84,10 +84,10 @@ Calendar is tentative and subject to change. More details will be added as the q
 ## Resources
 
 * [Textbook](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
-* Ed discussion board
+* [Ed discussion board](https://edstem.org/us/courses/21345/discussion/1327861)
 <!-- * Zoom link -->
 * [Canvas](https://canvas.uw.edu/courses/1545374)
-* GitLab
+* [GitLab](https://gitlab.cs.washington.edu/)
 
 ## Assignments/Grading
 

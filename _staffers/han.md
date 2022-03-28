@@ -7,4 +7,4 @@ website: https://xhan77.github.io/
 photo: han.jpg
 ---
 
-OH: TBD
+OH: Mon 11am-12pm, [Zoom](https://washington.zoom.us/my/xhan77)

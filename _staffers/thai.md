@@ -7,4 +7,4 @@ website:
 photo: thai.jpg
 ---
 
-OH: TBD
+OH: Tue 2:00-3:00pm (Zoom ID on Canvas)

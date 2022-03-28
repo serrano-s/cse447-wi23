@@ -83,23 +83,19 @@ Calendar is tentative and subject to change. More details will be added as the q
 
 ## Resources
 
-* Textbook
+* [Textbook](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 * Ed discussion board
 <!-- * Zoom link -->
-* Canvas
+* [Canvas](https://canvas.uw.edu/courses/1545374)
 * GitLab
 
 ## Assignments/Grading
 
-<!-- * Project 1 (sequence classification) -->
-<!-- * Project 2 (sequence labeling) -->
-<!-- * Project 3 (dependency parsing) -->
-<!-- * Project 4 (coreference resolution) -->
-
-* Project 1: 30%
-* Project 2: 30%
-* Project 3: 30%
+* Project 1 (sequence classification): 30%
+* Project 2 (sequence labeling): 30%
+* Project 3 (dependency parsing): 30%
 * Quizzes: 10%
+* Participation: 10% bonus
 
 ## Policies
 

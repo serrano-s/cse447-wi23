@@ -33,11 +33,11 @@ footer_content:
 
 quick_links:
   - name: Textbook
-    url: ""
+    url: "https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf"
   - name: Discussion Board
     url: ""
   - name: Canvas
-    url: ""
+    url: "https://canvas.uw.edu/courses/1545374"
   - name: GitLab
     url: ""
 

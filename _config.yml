@@ -32,8 +32,10 @@ aux_links:
 footer_content:
 
 quick_links:
-  - name: Textbook
+  - name: Eisenstein
     url: "https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf"
+  - name: J&M III
+    url: "https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf"
   - name: Discussion Board
     url: "https://edstem.org/us/courses/21345/discussion/1327861"
   - name: Canvas

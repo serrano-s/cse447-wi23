@@ -20,7 +20,6 @@
           link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
         - title: Pang et al. 2002
           link: https://www.aclweb.org/anthology/W02-1011/
-      due: HW1 out
 
 - week: 2
   size: 3
@@ -34,6 +33,7 @@
           link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
         - title: Pang et al. 2002
           link: https://www.aclweb.org/anthology/W02-1011/
+      due: HW1 out
     - date: 4/06
       topics: "Text classification: non-linear models"
       slides: 
@@ -112,7 +112,6 @@
       topics: "Parsing: dependency parsing"
       slides: 
       readings:
-      due: HW2 due
 
 - week: 7
   size: 3
@@ -121,7 +120,6 @@
       topics: "Applications: sentiment analysis"
       slides: 
       readings:
-      due: HW3 out
     - date: 5/11
       topics: "Applications: sentiment analysis"
       slides: 
@@ -131,6 +129,7 @@
       topics: "Applications: toxicity detection"
       slides: 
       readings:
+      due: HW2 due
 
 - week: 8
   size: 3
@@ -139,6 +138,7 @@
       topics: "Applications: machine translation"
       slides: 
       readings:
+      due: HW3 out
     - date: 5/18
       topics: "Applications: machine translation"
       slides: 
@@ -165,7 +165,6 @@
       topics: Interpretability
       slides: 
       readings:
-      due: HW3 due
 
 - week: 10
   size: 3
@@ -183,3 +182,4 @@
       topics: "Computational ethics: bias and fairness"
       slides: 
       readings:
+      due: HW3 due

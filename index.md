@@ -83,7 +83,9 @@ Calendar is tentative and subject to change. More details will be added as the q
 
 ## Resources
 
-* [Textbook](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+* Readings
+  - [Eis](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf): Natural Language Processing (Jacob Eisenstein)
+  - [J&M III](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf): Speech and Language Processing (Dan Jurafsky and James H. Martin)
 * [Ed discussion board](https://edstem.org/us/courses/21345/discussion/1327861)
 <!-- * Zoom link -->
 * [Canvas](https://canvas.uw.edu/courses/1545374)

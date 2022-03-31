@@ -7,4 +7,4 @@ website:
 photo: thai.jpg
 ---
 
-OH: Tue 2:00-3:00pm (Zoom ID on Canvas)
+OH: Tue 2:00-3:00pm (https://washington.zoom.us/j/93506581433)

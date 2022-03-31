@@ -48,7 +48,7 @@ Calendar is tentative and subject to change. More details will be added as the q
   <tr>
     <th>Week</th>
     <th>Date</th>
-    <th width="30%">Topics & Lecture Slides</th>
+    <th width="30%">Topics</th>
     <th width="20%">Readings</th>
     <th width="13%">Homeworks</th>
   </tr>
@@ -63,8 +63,12 @@ Calendar is tentative and subject to change. More details will be added as the q
         <td>{{day.date}}</td>
         <td class="cal-content">
           {{day.topics}}
+          <br>
           {% if day.slides %}
             <a href="{{day.slides}}" class="cal-content-link">[slides]</a>
+          {% endif %}
+          {% if day.recording %}
+            <a href="{{day.recording}}" class="cal-content-link">[recording]</a>
           {% endif %}
         </td>
         <td class="cal-content">

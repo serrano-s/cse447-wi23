@@ -13,8 +13,8 @@
       readings:
         - title: Eis 1
     - date: 4/01
-      topics: Text classification
-      slides: 
+      topics: Introduction; text classification
+      slides: assets/slides/lec03.pdf
       readings:
         - title: Eis 2
         - title: J&M III 4

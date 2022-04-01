@@ -7,4 +7,4 @@ website:
 photo: leroy.jpg
 ---
 
-OH: Fri 11:30am-12:30pm, [Zoom](https://washington.zoom.us/my/lrywng)
+OH: Fri 11:00am-12:00pm, [Zoom](https://washington.zoom.us/my/lrywng)

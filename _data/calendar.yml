@@ -27,7 +27,7 @@
   days:
     - date: 4/04
       topics: "Text classification: linear models"
-      slides: 
+      slides: assets/slides/lec04.pdf
       readings:
         - title: Eis 2
         - title: J&M III 4

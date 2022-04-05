@@ -93,7 +93,7 @@ Calendar is tentative and subject to change. More details will be added as the q
 * [Ed discussion board](https://edstem.org/us/courses/21345/discussion/1327861)
 <!-- * Zoom link -->
 * [Canvas](https://canvas.uw.edu/courses/1545374)
-* [GitLab](https://gitlab.cs.washington.edu/)
+* [GitLab](https://gitlab.cs.washington.edu/cse447-sp2022)
 
 ## Assignments/Grading
 

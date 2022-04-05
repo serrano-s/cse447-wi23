@@ -32,7 +32,7 @@ aux_links:
 footer_content:
 
 quick_links:
-  - name: Eisenstein
+  - name: Eis
     url: "https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf"
   - name: J&M III
     url: "https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf"
@@ -41,7 +41,7 @@ quick_links:
   - name: Canvas
     url: "https://canvas.uw.edu/courses/1545374"
   - name: GitLab
-    url: "https://gitlab.cs.washington.edu/"
+    url: "https://gitlab.cs.washington.edu/cse447-sp2022"
 
 assignments:
   - name: a1 (reference)

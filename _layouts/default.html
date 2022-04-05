@@ -74,6 +74,17 @@ layout: table_wrappers
             {% endfor %}
         </ul>
         {% endif %}
+      {% assign num_assignments = site.assignments | size %}
+        {% if num_assignments > 0 %}
+        <div class="nav-category">Assignments</div>
+        <ul class="nav-list">
+            {% for link in site.assignments %}
+            <li class="nav-list-item">
+                <a class="nav-list-link" href="{{ link.url }}">{{ link.name }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+        {% endif %}
       {% if site.just_the_docs.collections %}
         {% assign collections_size = site.just_the_docs.collections | size %}
         {% for collection_entry in site.just_the_docs.collections %}

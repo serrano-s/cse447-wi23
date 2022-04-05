@@ -43,13 +43,17 @@ quick_links:
   - name: GitLab
     url: "https://gitlab.cs.washington.edu/"
 
+assignments:
+  - name: a1 (reference)
+    url: "https://github.com/xhan77/uw-cse447-a1-public"
+
 # Collections for website data
 collections:
   staffers:
   modules:
   schedules:
   announcements:
-  assignments:
+  # assignments:
     # permalink: "/:collection/:path/"
     # output: true
 
@@ -85,16 +89,16 @@ defaults:
 just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
-    # Reference the "docs" collection
-    assignments:
-      # Give the collection a name
-      name: Assignments
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
-      nav_exclude: false
-      # Exclude the collection from the search
-      # Supports true or false (default)
-      search_exclude: false
+    # # Reference the "docs" collection
+    # assignments:
+    #   # Give the collection a name
+    #   name: Assignments
+    #   # Exclude the collection from the navigation
+    #   # Supports true or false (default)
+    #   nav_exclude: false
+    #   # Exclude the collection from the search
+    #   # Supports true or false (default)
+    #   search_exclude: false
 
 compress_html:
   clippings: all

@@ -15,6 +15,7 @@
     - date: 4/01
       topics: Introduction; text classification
       slides: assets/slides/lec03.pdf
+      recording:
       readings:
         - title: Eis 2
         - title: J&M III 4
@@ -28,6 +29,7 @@
     - date: 4/04
       topics: "Text classification: linear models"
       slides: assets/slides/lec04.pdf
+      recording: https://washington.zoom.us/rec/share/b9r6N34S48XyvL8lganVDMRBaUUrDr-6NpQ1gAW0YIHNmjNMleuW7-28upOpoTI.KedwJt6RGzYEIlkk
       readings:
         - title: Eis 2
         - title: J&M III 4

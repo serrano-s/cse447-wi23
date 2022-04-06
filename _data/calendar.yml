@@ -40,6 +40,7 @@
     - date: 4/06
       topics: "Text classification: non-linear models"
       slides: assets/slides/lec05.pdf
+      recording: https://washington.zoom.us/rec/share/5_3zFGL3f9AmP5qFs4BFybB4pbEgBfhid6AclOits306i--4gdoQsOispLw9Kk_b.LHwuf6vmSGDvq1s4
       readings:
     - date: 4/08
       topics: "Language modeling: ngrams, LM evaluation"

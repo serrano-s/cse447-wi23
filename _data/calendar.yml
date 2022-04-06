@@ -39,7 +39,7 @@
       due: HW1 out
     - date: 4/06
       topics: "Text classification: non-linear models"
-      slides: 
+      slides: assets/slides/lec05.pdf
       readings:
     - date: 4/08
       topics: "Language modeling: ngrams, LM evaluation"

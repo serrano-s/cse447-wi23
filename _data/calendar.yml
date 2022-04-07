@@ -13,90 +13,113 @@
       readings:
         - title: Eis 1
     - date: 4/01
-      topics: Introduction; text classification
+      topics: Introduction
       slides: assets/slides/lec03.pdf
       recording: https://washington.zoom.us/rec/share/Vr_PP5uDFRqVKl-OfG0PoFPy8bdCgP04-F5__FMW0UO7UP_zlTm4prdupdNwBB8O.JUH4rkfJkwwPL975
       readings:
-        - title: Eis 2
-        - title: J&M III 4
-          link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
-        - title: Pang et al. 2002
-          link: https://www.aclweb.org/anthology/W02-1011/
+        - title: Eis 1
 
 - week: 2
   size: 3
   days:
     - date: 4/04
-      topics: "Text classification: linear models"
+      topics: "Text classification: introduction"
       slides: assets/slides/lec04.pdf
       recording: https://washington.zoom.us/rec/share/b9r6N34S48XyvL8lganVDMRBaUUrDr-6NpQ1gAW0YIHNmjNMleuW7-28upOpoTI.KedwJt6RGzYEIlkk
       readings:
         - title: Eis 2
         - title: J&M III 4
           link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
-        - title: Pang et al. 2002
-          link: https://www.aclweb.org/anthology/W02-1011/
       due: HW1 out
     - date: 4/06
-      topics: "Text classification: non-linear models"
+      topics: "Text classification: generative learning, naive Bayes"
       slides: assets/slides/lec05.pdf
       recording: https://washington.zoom.us/rec/share/5_3zFGL3f9AmP5qFs4BFybB4pbEgBfhid6AclOits306i--4gdoQsOispLw9Kk_b.LHwuf6vmSGDvq1s4
       readings:
+        - title: Eis 2
+        - title: J&M III 4
+          link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
+        - title: Ng & Jordan, 2001
+          link: https://www.semanticscholar.org/paper/On-Discriminative-vs.-Generative-Classifiers%3A-A-of-Ng-Jordan/90929a6aa901ba958eb4960aeeb594c752e08369
     - date: 4/08
-      topics: "Language modeling: ngrams, LM evaluation"
+      topics: "Text classification: discriminative learning"
       slides: 
       readings:
+        - title: Eis 2
+        - title: J&M III 5
+          link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
+        - title: Pang et al. 2002
+          link: https://aclanthology.org/W02-1011.pdf
 
 - week: 3
   size: 3
   days:
     - date: 4/11
+      topics: "Language modeling: ngrams, LM evaluation"
+      slides: 
+      readings:
+        - title: J&M III 3
+          link: https://web.stanford.edu/~jurafsky/slp3/3.pdf
+        - title: Eis 6.1-6.2, 6.4
+    - date: 4/13
       topics: "Language modeling: neural LMs, RNN"
       slides: 
       readings:
-    - date: 4/13
+        - title: Eis 6.3, 6.5
+        - title: J&M III 7.5
+          link: https://web.stanford.edu/~jurafsky/slp3/7.pdf
+        - title: J&M III 9
+          link: https://web.stanford.edu/~jurafsky/slp3/9.pdf
+      due: In-class quiz 1
+    - date: 4/15
       topics: "Language modeling: transformers"
       slides: 
       readings:
-      due: In-class quiz 1
-    - date: 4/15
-      topics: "Representation learning: lexical semantics; vector semantics and words as vectors"
-      slides: 
-      readings:
+        - title: Goldberg 10
+          link: https://arxiv.org/abs/1510.00726
 
 - week: 4
   size: 3
   days:
     - date: 4/18
-      topics: "Representation learning: word2vec, fasttex"
+      topics: "Representation learning: lexical semantics; vector semantics and words as vectors"
       slides: 
       readings:
+        - title: J&M III 6
+          link: https://web.stanford.edu/~jurafsky/slp3/6.pdf
+        - title: Eis 14
     - date: 4/20
+      topics: "Representation learning: word2vec, fasttext"
+      slides: 
+      readings:
+        - title: Baroni et al. 2014
+          link: https://www.aclweb.org/anthology/P14-1023/
+        - title: Bojanowski et al. 2017
+          link: https://arxiv.org/abs/1607.04606
+      due: In-class quiz 2
+    - date: 4/22
       topics: "Representation learning: ELMo, BERT"
       slides: 
       readings:
-      due: In-class quiz 2
-    - date: 4/22
-      topics: Morphological analysis
-      slides: 
-      readings:
+        - title: Peters et al. 2018
+          link: https://arxiv.org/abs/1802.05365
       due: HW1 due
 
 - week: 5
   size: 3
   days:
     - date: 4/25
-      topics: "Sequence labeling: parts of speech, HMMS"
+      topics: "Recommender systems and online training"
       slides: 
       readings:
       due: HW2 out
     - date: 4/27
-      topics: "Sequence labeling: the Viterbi algorithm"
+      topics: "Sequence labeling: parts of speech, HMMs"
       slides: 
       readings:
       due: In-class quiz 3
     - date: 4/29
-      topics: "Sequence labeling: NER, neural POS and NER tagging"
+      topics: "Sequence labeling: the Viterbi algorithm"
       slides: 
       readings:
 
@@ -104,16 +127,16 @@
   size: 3
   days:
     - date: 5/02
-      topics: "Parsing: parsing formalisms, CFGs, PCFGs"
+      topics: "Sequence labeling: NER, neural POS and NER tagging"
       slides: 
       readings:
     - date: 5/04
-      topics: "Parsing: constituency parsing, CKY"
+      topics: "Parsing: parsing formalisms, CFGs, PCFGs"
       slides: 
       readings:
       due: In-class quiz 4
     - date: 5/06
-      topics: "Parsing: dependency parsing"
+      topics: "Parsing: constituency parsing, CKY"
       slides: 
       readings:
 
@@ -121,7 +144,7 @@
   size: 3
   days:
     - date: 5/09
-      topics: "Applications: sentiment analysis"
+      topics: "Parsing: dependency parsing"
       slides: 
       readings:
     - date: 5/11
@@ -130,7 +153,7 @@
       readings:
       due: In-class quiz 5
     - date: 5/13
-      topics: "Applications: toxicity detection"
+      topics: "Applications: sentiment analysis"
       slides: 
       readings:
       due: HW2 due
@@ -139,7 +162,7 @@
   size: 3
   days:
     - date: 5/16
-      topics: "Applications: machine translation"
+      topics: "Applications: toxicity detection"
       slides: 
       readings:
       due: HW3 out

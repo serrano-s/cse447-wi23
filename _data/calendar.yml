@@ -43,7 +43,7 @@
           link: https://www.semanticscholar.org/paper/On-Discriminative-vs.-Generative-Classifiers%3A-A-of-Ng-Jordan/90929a6aa901ba958eb4960aeeb594c752e08369
     - date: 4/08
       topics: "Text classification: discriminative learning"
-      slides: 
+      slides: assets/slides/lec06.pdf
       readings:
         - title: Eis 2
         - title: J&M III 5

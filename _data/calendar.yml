@@ -57,7 +57,7 @@
   days:
     - date: 4/11
       topics: "Language modeling: ngrams, LM evaluation"
-      slides: 
+      slides: assets/slides/lec07.pdf
       readings:
         - title: J&M III 3
           link: https://web.stanford.edu/~jurafsky/slp3/3.pdf

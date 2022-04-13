@@ -65,7 +65,7 @@
         - title: Eis 6.1-6.2, 6.4
     - date: 4/13
       topics: "Language modeling: neural LMs, RNN"
-      slides: 
+      slides: assets/slides/lec08.pdf
       readings:
         - title: Eis 6.3, 6.5
         - title: J&M III 7.5

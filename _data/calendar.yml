@@ -58,6 +58,7 @@
     - date: 4/11
       topics: "Language modeling: ngrams, LM evaluation"
       slides: assets/slides/lec07.pdf
+      recording: https://washington.zoom.us/rec/share/sJzMRPN9G6P4q3_Id6ddYCmIQoPYzYni_q5OP54sICfzofD-Kk92CNesgAxPFbVO.qACwDOcgCWqbxMU1
       readings:
         - title: J&M III 3
           link: https://web.stanford.edu/~jurafsky/slp3/3.pdf

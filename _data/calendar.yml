@@ -66,6 +66,7 @@
     - date: 4/13
       topics: "Language modeling: neural LMs, RNN"
       slides: assets/slides/lec08.pdf
+      recording: https://washington.zoom.us/rec/share/8MqKY8E-p82muZ-VBAVcgE88tYYcpq0jHmA2VNALgPyC_FJqK7JM1-4VJ7nxE7LT.ofgw0wgcnUnka30X
       readings:
         - title: Eis 6.3, 6.5
         - title: J&M III 7.5

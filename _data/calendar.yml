@@ -127,11 +127,11 @@
       topics: "Recommender systems and online training"
       slides: 
       readings:
-      due: In-class quiz 3
     - date: 4/29
       topics: "Sequence labeling: parts of speech, HMMs"
       slides: 
       readings:
+      due: In-class quiz 3
 
 - week: 6
   size: 3

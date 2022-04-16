@@ -74,7 +74,8 @@
       due: In-class quiz 1
     - date: 4/15
       topics: "Language modeling"
-      slides: 
+      slides: assets/slides/lec09.pdf
+      recording: https://washington.zoom.us/rec/share/JGM57WARFGaxUsiaz5A_wlRQKahPJ7nNqftkecrObF7viuCKyYb4pUf2F3SduDe2.O4KcZIDONXl83G5x
       readings:
         - title: J&M III 3
           link: https://web.stanford.edu/~jurafsky/slp3/3.pdf

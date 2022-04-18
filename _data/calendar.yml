@@ -86,7 +86,7 @@
   days:
     - date: 4/18
       topics: "Lexical semantics"
-      slides: 
+      slides: assets/slides/lec10.pdf
       readings:
         - title: J&M III 6
           link: https://web.stanford.edu/~jurafsky/slp3/6.pdf

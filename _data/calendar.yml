@@ -93,7 +93,7 @@
         - title: Eis 14
     - date: 4/20
       topics: "Neural networks, representation learning"
-      slides: 
+      slides: assets/slides/lec11.pdf
       readings:
         - title: Eis 6.3, 6.5
         - title: J&M III 7.5

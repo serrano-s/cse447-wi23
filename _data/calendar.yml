@@ -94,6 +94,7 @@
     - date: 4/20
       topics: "Neural networks, representation learning"
       slides: assets/slides/lec11.pdf
+      recording: https://washington.zoom.us/rec/share/3WtTkQfjXQNUGDR5AWkPrPumTM9cxDkBh_jr7rdqzhx_deFsqKWWXG91GL8W-L_6.DTGvAwxbYJbidu3u
       readings:
         - title: Eis 6.3, 6.5
         - title: J&M III 7.5

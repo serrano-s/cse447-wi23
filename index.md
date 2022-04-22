@@ -31,7 +31,7 @@ MWF 1:30-2:20pm, KNE 110
 
 ## Announcements
 
-None yet
+- Please fill out [this feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdFvLJkwO_ZFGGErnI0R9P1bGnZ_QSR1o9LRTtQWcNRD5CiCA/viewform?usp=pp_url) so we know how to improve. Thank you!
   
 ## Summary
 

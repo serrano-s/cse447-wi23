@@ -23,7 +23,7 @@
   size: 3
   days:
     - date: 4/04
-      topics: "Text classification"
+      topics: Text classification
       slides: assets/slides/lec04.pdf
       recording: https://washington.zoom.us/rec/share/b9r6N34S48XyvL8lganVDMRBaUUrDr-6NpQ1gAW0YIHNmjNMleuW7-28upOpoTI.KedwJt6RGzYEIlkk
       readings:
@@ -32,7 +32,7 @@
           link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
       due: HW1 out
     - date: 4/06
-      topics: "Text classification"
+      topics: Text classification
       slides: assets/slides/lec05.pdf
       recording: https://washington.zoom.us/rec/share/5_3zFGL3f9AmP5qFs4BFybB4pbEgBfhid6AclOits306i--4gdoQsOispLw9Kk_b.LHwuf6vmSGDvq1s4
       readings:
@@ -42,7 +42,7 @@
         - title: Ng & Jordan, 2001
           link: https://www.semanticscholar.org/paper/On-Discriminative-vs.-Generative-Classifiers%3A-A-of-Ng-Jordan/90929a6aa901ba958eb4960aeeb594c752e08369
     - date: 4/08
-      topics: "Text classification"
+      topics: Text classification
       slides: assets/slides/lec06.pdf
       recording: https://washington.zoom.us/rec/share/r6aVQD3ktzHSLqG0zx9g0pbRKWcsSxVQMVmFp7qBSdbg3gcsZse6lNBj3VsyPaqy.vZs6uRUuWovGHmZf
       readings:
@@ -56,7 +56,7 @@
   size: 3
   days:
     - date: 4/11
-      topics: "Text classification"
+      topics: Text classification
       slides: assets/slides/lec07.pdf
       recording: https://washington.zoom.us/rec/share/sJzMRPN9G6P4q3_Id6ddYCmIQoPYzYni_q5OP54sICfzofD-Kk92CNesgAxPFbVO.qACwDOcgCWqbxMU1
       readings:
@@ -64,7 +64,7 @@
         - title: J&M III 5
           link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
     - date: 4/13
-      topics: "Language modeling"
+      topics: Language modeling
       slides: assets/slides/lec08.pdf
       recording: https://washington.zoom.us/rec/share/8MqKY8E-p82muZ-VBAVcgE88tYYcpq0jHmA2VNALgPyC_FJqK7JM1-4VJ7nxE7LT.ofgw0wgcnUnka30X
       readings:
@@ -73,7 +73,7 @@
         - title: Eis 6.1-6.2, 6.4
       due: In-class quiz 1
     - date: 4/15
-      topics: "Language modeling"
+      topics: Language modeling
       slides: assets/slides/lec09.pdf
       recording: https://washington.zoom.us/rec/share/JGM57WARFGaxUsiaz5A_wlRQKahPJ7nNqftkecrObF7viuCKyYb4pUf2F3SduDe2.O4KcZIDONXl83G5x
       readings:
@@ -85,14 +85,14 @@
   size: 3
   days:
     - date: 4/18
-      topics: "Lexical semantics"
+      topics: Lexical semantics
       slides: assets/slides/lec10.pdf
       readings:
         - title: J&M III 6
           link: https://web.stanford.edu/~jurafsky/slp3/6.pdf
         - title: Eis 14
     - date: 4/20
-      topics: "Neural networks, representation learning"
+      topics: Lexical semantics, representation learning
       slides: assets/slides/lec11.pdf
       recording: https://washington.zoom.us/rec/share/3WtTkQfjXQNUGDR5AWkPrPumTM9cxDkBh_jr7rdqzhx_deFsqKWWXG91GL8W-L_6.DTGvAwxbYJbidu3u
       readings:
@@ -105,7 +105,7 @@
           link: https://arxiv.org/abs/1510.00726
       due: In-class quiz 2
     - date: 4/22
-      topics: "Neural language models, RNNs"
+      topics: Neural networks
       slides: assets/slides/lec12.pdf
       recording: https://washington.zoom.us/rec/share/RQjWBaVrnylv4C86wE2orY_lCT91cYVb5fuYUptrEs5Uj4bsOoUfNAuOanEK2KHF.9TKGBvdfdaIaqtrb
       readings:
@@ -121,16 +121,16 @@
   size: 3
   days:
     - date: 4/25
-      topics: "Neural language models, transformers"
+      topics: Neural language models
       slides: 
       readings:
       due: HW2 out
     - date: 4/27
-      topics: "Recommender systems and online training"
+      topics: Recommender systems and online training
       slides: 
       readings:
     - date: 4/29
-      topics: "Sequence labeling: parts of speech, HMMs"
+      topics: Sequence labeling
       slides: 
       readings:
       due: In-class quiz 3
@@ -139,16 +139,16 @@
   size: 3
   days:
     - date: 5/02
-      topics: "Sequence labeling: the Viterbi algorithm"
+      topics: Sequence labeling
       slides: 
       readings:
     - date: 5/04
-      topics: "Neural sequence labeling"
+      topics: Sequence labeling
       slides: 
       readings:
       due: In-class quiz 4
     - date: 5/06
-      topics: "Parsing: parsing formalisms, CFGs, PCFGs"
+      topics: Neural sequence labeling
       slides: 
       readings:
 
@@ -156,16 +156,16 @@
   size: 3
   days:
     - date: 5/09
-      topics: "Parsing: constituency parsing, CKY"
+      topics: "Parsing: parsing formalisms, CFGs, PCFGs"
       slides: 
       readings:
     - date: 5/11
-      topics: "Parsing: dependency parsing"
+      topics: "Parsing: constituency parsing, CKY"
       slides: 
       readings:
       due: In-class quiz 5
     - date: 5/13
-      topics: "Applications: sentiment analysis"
+      topics: "Parsing: dependency parsing"
       slides: 
       readings:
       due: HW2 due
@@ -174,7 +174,7 @@
   size: 3
   days:
     - date: 5/16
-      topics: "Applications: toxicity detection"
+      topics: "Applications: sentiment analysis, toxicity detection"
       slides: 
       readings:
       due: HW3 out

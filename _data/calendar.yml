@@ -124,6 +124,10 @@
       topics: Neural language models
       slides: 
       readings:
+        - title: Annotated Transformer
+          link: https://nlp.seas.harvard.edu/2018/04/03/attention.html
+        - title: Illustrated Transformer
+          link: https://jalammar.github.io/illustrated-transformer/
       due: HW2 out
     - date: 4/27
       topics: Recommender systems and online training

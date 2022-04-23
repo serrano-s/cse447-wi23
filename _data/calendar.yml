@@ -106,7 +106,8 @@
       due: In-class quiz 2
     - date: 4/22
       topics: "Neural language models, RNNs"
-      slides: 
+      slides: assets/slides/lec12.pdf
+      recording: https://washington.zoom.us/rec/share/RQjWBaVrnylv4C86wE2orY_lCT91cYVb5fuYUptrEs5Uj4bsOoUfNAuOanEK2KHF.9TKGBvdfdaIaqtrb
       readings:
         - title: Baroni et al. 2014
           link: https://www.aclweb.org/anthology/P14-1023/

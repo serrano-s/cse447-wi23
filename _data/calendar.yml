@@ -122,7 +122,8 @@
   days:
     - date: 4/25
       topics: Neural language models
-      slides: 
+      slides: assets/slides/lec13.pdf
+      recording: https://washington.zoom.us/rec/share/OyBxVzO5uw_0m6ftGdHEMEl7g0sA-33QbqgxHbA7nkneJ0RvTRoNZQ55mUrnwzv4.MQOdGR_LSklI1yTH
       readings:
         - title: Annotated Transformer
           link: https://nlp.seas.harvard.edu/2018/04/03/attention.html

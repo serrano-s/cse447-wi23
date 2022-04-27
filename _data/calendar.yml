@@ -132,7 +132,7 @@
       due: HW2 out
     - date: 4/27
       topics: Recommender systems and online training
-      slides: 
+      slides: assets/slides/lec14.pdf
       readings:
     - date: 4/29
       topics: Sequence labeling

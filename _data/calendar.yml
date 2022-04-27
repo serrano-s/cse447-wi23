@@ -134,6 +134,8 @@
       topics: Recommender systems and online training
       slides: assets/slides/lec14.pdf
       readings:
+        - title: Recommender Systems Lectures
+          link: https://youtube.com/playlist?list=PLaZQkZp6WhWwiSQYhFzpDWWVgz3hodXwr
     - date: 4/29
       topics: Sequence labeling
       slides: 

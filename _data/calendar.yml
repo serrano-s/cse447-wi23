@@ -135,12 +135,15 @@
       slides: assets/slides/lec14.pdf
       recording: https://washington.zoom.us/rec/share/uf6WAUUqu57GHSto_qRbJHsLtv0fWB_thV84AeeNHYNktGZ6npSz10ciP2XU8BPK.yLu-Yh9HRlCL3gTX
       readings:
-        - title: Recommender Systems Lectures
+        - title: Recommender Systems lectures
           link: https://youtube.com/playlist?list=PLaZQkZp6WhWwiSQYhFzpDWWVgz3hodXwr
     - date: 4/29
       topics: Sequence labeling
-      slides: 
+      slides: assets/slides/lec15.pdf
       readings:
+        - title: J&M III 8
+          link: https://web.stanford.edu/~jurafsky/slp3/8.pdf
+        - title: Eis 7.1-7.4, 8.1
       due: In-class quiz 3
 
 - week: 6
@@ -150,15 +153,24 @@
       topics: Sequence labeling
       slides: 
       readings:
+        - title: Eis 7.1-7.4, 8.1
+        - title: Collins notes
+          link: http://www.cs.columbia.edu/~mcollins/hmms-spring2013.pdf
     - date: 5/04
       topics: Sequence labeling
       slides: 
       readings:
+        - title: Eis 7.5, 7.7, 8.3
+        - title: Sutton & McCallum 2.1-2.5
+          link: https://arxiv.org/abs/1011.4088
       due: In-class quiz 4
     - date: 5/06
       topics: Neural sequence labeling
       slides: 
       readings:
+        - title: Eis 7.6
+        - title: Collobert et al. 2011
+          link: https://arxiv.org/abs/1103.0398
 
 - week: 7
   size: 3

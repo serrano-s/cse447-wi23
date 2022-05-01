@@ -152,7 +152,7 @@
   days:
     - date: 5/02
       topics: Sequence labeling
-      slides: 
+      slides: assets/slides/lec16.pdf
       readings:
         - title: Eis 7.1-7.4, 8.1
         - title: Collins notes

@@ -161,6 +161,7 @@
     - date: 5/04
       topics: Sequence labeling
       slides: assets/slides/lec17.pdf
+      recording: https://washington.zoom.us/rec/share/-yfAfq4AEfc1VcpRTqpau0eq9gLZTStEZKSJ5oN1UXC0n7KofPWdIGDis0cfl3h1.H4fp3FB3H5G_ZAKa
       readings:
         - title: Eis 7.5, 7.7, 8.3
         - title: Sutton & McCallum 2.1-2.5

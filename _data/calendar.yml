@@ -170,6 +170,7 @@
     - date: 5/06
       topics: Neural sequence labeling
       slides: 
+      recording: https://drive.google.com/drive/folders/1rgBgmFLHqWRQPRJD776KUIgv0pWK5Oqk?usp=sharing
       readings:
         - title: Eis 7.6
         - title: Collobert et al. 2011

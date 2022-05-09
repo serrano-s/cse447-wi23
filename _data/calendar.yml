@@ -169,7 +169,7 @@
       due: In-class quiz 4
     - date: 5/06
       topics: Neural sequence labeling
-      slides: 
+      slides: assets/slides/lec17.pdf
       recording: https://drive.google.com/drive/folders/1rgBgmFLHqWRQPRJD776KUIgv0pWK5Oqk?usp=sharing
       readings:
         - title: Eis 7.6
@@ -181,7 +181,7 @@
   days:
     - date: 5/09
       topics: "Parsing: parsing formalisms, CFGs, PCFGs"
-      slides: 
+      slides: assets/slides/lec18.pdf
       readings:
     - date: 5/11
       topics: "Parsing: constituency parsing, CKY"

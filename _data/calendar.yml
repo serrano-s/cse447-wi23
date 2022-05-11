@@ -202,7 +202,6 @@
         - title: J&M III 14
           link: https://web.stanford.edu/~jurafsky/slp3/14.pdf
         - title: Eis 11.1, 11.3
-      due: HW2 due
 
 - week: 8
   size: 3
@@ -213,7 +212,7 @@
       readings:
         - title: Eis 11.1, 11.3
         - title: Chen and Manning 2014
-      due: HW3 out
+      due: HW2 due, HW3 out
     - date: 5/18
       topics: Parsing, Research showcase
       slides: 

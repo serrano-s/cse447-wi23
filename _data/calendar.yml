@@ -197,7 +197,7 @@
       due: In-class quiz 5
     - date: 5/13
       topics: Parsing
-      slides: 
+      slides: assets/slides/lec20.pdf
       readings:
         - title: J&M III 14
           link: https://web.stanford.edu/~jurafsky/slp3/14.pdf

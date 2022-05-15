@@ -209,7 +209,7 @@
   days:
     - date: 5/16
       topics: Parsing
-      slides: 
+      slides: assets/slides/lec21.pdf
       readings:
         - title: Eis 11.1, 11.3
         - title: Chen and Manning 2014

@@ -216,29 +216,29 @@
         - title: Chen and Manning 2014
       due: HW2 due, HW3 out
     - date: 5/18
-      topics: Parsing, Research showcase
+      topics: "Parsing: research showcase"
       slides: 
       readings:
       due: In-class quiz 6
     - date: 5/20
-      topics: "Applications: summarization"
-      slides: 
+      topics: "Research topics: summarization"
+      slides: assets/slides/lec23.pdf
       readings:
 
 - week: 9
   size: 3
   days:
     - date: 5/23
-      topics: Computational social science
+      topics:
       slides: 
       readings:
     - date: 5/25
-      topics: Computational social science
+      topics: TA session
       slides: 
       readings:
       due: In-class quiz 7
     - date: 5/27
-      topics: Interpretability
+      topics: "Research topics: interpretability"
       slides: 
       readings:
 
@@ -250,12 +250,12 @@
       slides: 
       readings:
     - date: 6/01
-      topics: Computational ethics
+      topics: "Research topics: computational ethics"
       slides: 
       readings:
       due: In-class quiz 8
     - date: 6/03
-      topics: "Computational ethics: bias and fairness"
+      topics: "Research topics: computational ethics"
       slides: 
       readings:
       due: HW3 due

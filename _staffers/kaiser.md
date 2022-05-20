@@ -7,4 +7,4 @@ website: https://kaiserwholearns.github.io/
 photo: kaiser.jpg
 ---
 
-OH: Thu 11:30am-12:30pm, [Zoom](https://washington.zoom.us/j/98344959831)
+OH: Thu 5-6pm, [Zoom](https://washington.zoom.us/j/98344959831)

@@ -44,8 +44,10 @@ quick_links:
     url: "https://gitlab.cs.washington.edu/cse447-sp2022"
 
 assignments:
-  - name: a1 (reference)
+  - name: a1
     url: "https://github.com/xhan77/uw-cse447-a1-public"
+  - name: a2
+    url: "https://github.com/xhan77/uw-cse447-a2-public"
 
 # Collections for website data
 collections:

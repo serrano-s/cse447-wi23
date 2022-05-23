@@ -217,7 +217,7 @@
       due: HW2 due, HW3 out
     - date: 5/18
       topics: "Parsing: research showcase"
-      slides: 
+      slides: assets/slides/lec22.pdf
       readings:
       due: In-class quiz 6
     - date: 5/20

@@ -230,7 +230,7 @@
   size: 3
   days:
     - date: 5/23
-      topics:
+      topics: No class
       slides: 
       readings:
     - date: 5/25
@@ -240,7 +240,8 @@
       due: In-class quiz 7
     - date: 5/27
       topics: "Research topics: interpretability"
-      slides: 
+      slides: assets/slides/lec24.pdf
+      recording: https://washington.zoom.us/rec/share/TT9GVOWbYVljcksoZOy53SlKrHmLaKpQ-90oU0ixFrffmT2UxGvFG5SRk0VBPn58.9Fd4Ws-6zGUXj6RC
       readings:
 
 - week: 10

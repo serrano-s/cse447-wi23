@@ -253,11 +253,10 @@
       readings:
     - date: 6/01
       topics: "Research topics: computational ethics"
-      slides: 
+      slides: assets/slides/lec25.pdf
       readings:
-      due: In-class quiz 8
     - date: 6/03
-      topics: "Research topics: computational ethics"
+      topics: No class
       slides: 
       readings:
-      due: HW3 due
+      due: In-class quiz 8, HW3 due

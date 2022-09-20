@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Natural Language Processing
-tagline: CSE 447&#58; Natural Language Processing, Spring 2022
+tagline: CSE 447&#58; Natural Language Processing, Autumn 2022
 description: 
-author: Ivy Guo
-baseurl: '/cse447-sp22' # the subpath of your site, e.g. /blog
+author: Jacob Morrison
+baseurl: '/cse447-au22' # the subpath of your site, e.g. /blog
 url: 'https://fiftyloops.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
@@ -44,10 +44,10 @@ quick_links:
     url: "https://gitlab.cs.washington.edu/cse447-sp2022"
 
 assignments:
-  - name: a1
-    url: "https://github.com/xhan77/uw-cse447-a1-public"
-  - name: a2
-    url: "https://github.com/xhan77/uw-cse447-a2-public"
+#   - name: a1
+#     url: "https://github.com/xhan77/uw-cse447-a1-public"
+#   - name: a2
+#     url: "https://github.com/xhan77/uw-cse447-a2-public"
 
 # Collections for website data
 collections:

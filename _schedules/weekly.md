@@ -24,19 +24,19 @@ schedule:
       - name: Lecture
         start: 1:30 PM
         end: 2:20 PM
-        location: KNE 110
+        location: CSE2 G01
   - name: Tuesday
   - name: Wednesday
     events:
       - name: Lecture
         start: 1:30 PM
         end: 2:20 PM
-        location: KNE 110
+        location: CSE2 G01
   - name: Thursday
   - name: Friday
     events:
       - name: Lecture
         start: 1:30 PM
         end: 2:20 PM
-        location: KNE 110
+        location: CSE2 G01
 ---

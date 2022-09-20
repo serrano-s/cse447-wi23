@@ -1,263 +1,277 @@
 - week: 1
-  size: 3
+  size: 2
   days:
-    - date: 3/28
-      topics: Introduction
-      slides: assets/slides/lec01.pdf
-      readings:
-        - title: Eis 1
-    - date: 3/30
-      topics: Introduction
-      slides: assets/slides/lec02.pdf
-      recording: https://washington.zoom.us/rec/share/bCZB7y4CP6Yc8mI0K2ROdYlZHu3k81Q7cupBDVKE03rjioEXbVPDydVpsXj2ns92.UupVj9DNtyQKFWA2
-      readings:
-        - title: Eis 1
-    - date: 4/01
-      topics: Introduction
-      slides: assets/slides/lec03.pdf
-      recording: https://washington.zoom.us/rec/share/Vr_PP5uDFRqVKl-OfG0PoFPy8bdCgP04-F5__FMW0UO7UP_zlTm4prdupdNwBB8O.JUH4rkfJkwwPL975
-      readings:
-        - title: Eis 1
+    # - date: 9/26
+    #   topics: No class
+    #   slides:
+    #   readings:
+    - date: 9/28
+      # topics: Introduction
+      # slides: assets/slides/lec02.pdf
+      # recording: https://washington.zoom.us/rec/share/bCZB7y4CP6Yc8mI0K2ROdYlZHu3k81Q7cupBDVKE03rjioEXbVPDydVpsXj2ns92.UupVj9DNtyQKFWA2
+      # readings:
+      #   - title: Eis 1
+    - date: 9/30
+      # topics: Introduction
+      # slides: assets/slides/lec03.pdf
+      # recording: https://washington.zoom.us/rec/share/Vr_PP5uDFRqVKl-OfG0PoFPy8bdCgP04-F5__FMW0UO7UP_zlTm4prdupdNwBB8O.JUH4rkfJkwwPL975
+      # readings:
+      #   - title: Eis 1
 
 - week: 2
   size: 3
   days:
-    - date: 4/04
-      topics: Text classification
-      slides: assets/slides/lec04.pdf
-      recording: https://washington.zoom.us/rec/share/b9r6N34S48XyvL8lganVDMRBaUUrDr-6NpQ1gAW0YIHNmjNMleuW7-28upOpoTI.KedwJt6RGzYEIlkk
-      readings:
-        - title: Eis 2
-        - title: J&M III 4
-          link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
-      due: HW1 out
-    - date: 4/06
-      topics: Text classification
-      slides: assets/slides/lec05.pdf
-      recording: https://washington.zoom.us/rec/share/5_3zFGL3f9AmP5qFs4BFybB4pbEgBfhid6AclOits306i--4gdoQsOispLw9Kk_b.LHwuf6vmSGDvq1s4
-      readings:
-        - title: Eis 2
-        - title: J&M III 4
-          link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
-        - title: Ng & Jordan, 2001
-          link: https://www.semanticscholar.org/paper/On-Discriminative-vs.-Generative-Classifiers%3A-A-of-Ng-Jordan/90929a6aa901ba958eb4960aeeb594c752e08369
-    - date: 4/08
-      topics: Text classification
-      slides: assets/slides/lec06.pdf
-      recording: https://washington.zoom.us/rec/share/r6aVQD3ktzHSLqG0zx9g0pbRKWcsSxVQMVmFp7qBSdbg3gcsZse6lNBj3VsyPaqy.vZs6uRUuWovGHmZf
-      readings:
-        - title: Eis 2
-        - title: J&M III 5
-          link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
-        - title: Pang et al. 2002
-          link: https://aclanthology.org/W02-1011.pdf
+    - date: 10/03
+      # topics: Text classification
+      # slides: assets/slides/lec04.pdf
+      # recording: https://washington.zoom.us/rec/share/b9r6N34S48XyvL8lganVDMRBaUUrDr-6NpQ1gAW0YIHNmjNMleuW7-28upOpoTI.KedwJt6RGzYEIlkk
+      # readings:
+      #   - title: Eis 2
+      #   - title: J&M III 4
+      #     link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
+      # due: HW1 out
+    - date: 10/05
+      # topics: Text classification
+      # slides: assets/slides/lec05.pdf
+      # recording: https://washington.zoom.us/rec/share/5_3zFGL3f9AmP5qFs4BFybB4pbEgBfhid6AclOits306i--4gdoQsOispLw9Kk_b.LHwuf6vmSGDvq1s4
+      # readings:
+      #   - title: Eis 2
+      #   - title: J&M III 4
+      #     link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
+      #   - title: Ng & Jordan, 2001
+      #     link: https://www.semanticscholar.org/paper/On-Discriminative-vs.-Generative-Classifiers%3A-A-of-Ng-Jordan/90929a6aa901ba958eb4960aeeb594c752e08369
+    - date: 10/07
+      # topics: Text classification
+      # slides: assets/slides/lec06.pdf
+      # recording: https://washington.zoom.us/rec/share/r6aVQD3ktzHSLqG0zx9g0pbRKWcsSxVQMVmFp7qBSdbg3gcsZse6lNBj3VsyPaqy.vZs6uRUuWovGHmZf
+      # readings:
+      #   - title: Eis 2
+      #   - title: J&M III 5
+      #     link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
+      #   - title: Pang et al. 2002
+      #     link: https://aclanthology.org/W02-1011.pdf
 
 - week: 3
   size: 3
   days:
-    - date: 4/11
-      topics: Text classification
-      slides: assets/slides/lec07.pdf
-      recording: https://washington.zoom.us/rec/share/sJzMRPN9G6P4q3_Id6ddYCmIQoPYzYni_q5OP54sICfzofD-Kk92CNesgAxPFbVO.qACwDOcgCWqbxMU1
-      readings:
-        - title: Eis 2
-        - title: J&M III 5
-          link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
-    - date: 4/13
-      topics: Language modeling
-      slides: assets/slides/lec08.pdf
-      recording: https://washington.zoom.us/rec/share/8MqKY8E-p82muZ-VBAVcgE88tYYcpq0jHmA2VNALgPyC_FJqK7JM1-4VJ7nxE7LT.ofgw0wgcnUnka30X
-      readings:
-        - title: J&M III 3
-          link: https://web.stanford.edu/~jurafsky/slp3/3.pdf
-        - title: Eis 6.1-6.2, 6.4
-      due: In-class quiz 1
-    - date: 4/15
-      topics: Language modeling
-      slides: assets/slides/lec09.pdf
-      recording: https://washington.zoom.us/rec/share/JGM57WARFGaxUsiaz5A_wlRQKahPJ7nNqftkecrObF7viuCKyYb4pUf2F3SduDe2.O4KcZIDONXl83G5x
-      readings:
-        - title: J&M III 3
-          link: https://web.stanford.edu/~jurafsky/slp3/3.pdf
-        - title: Eis 6.1-6.2, 6.4
+    - date: 10/10
+      # topics: Text classification
+      # slides: assets/slides/lec07.pdf
+      # recording: https://washington.zoom.us/rec/share/sJzMRPN9G6P4q3_Id6ddYCmIQoPYzYni_q5OP54sICfzofD-Kk92CNesgAxPFbVO.qACwDOcgCWqbxMU1
+      # readings:
+      #   - title: Eis 2
+      #   - title: J&M III 5
+      #     link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
+    - date: 10/12
+      # topics: Language modeling
+      # slides: assets/slides/lec08.pdf
+      # recording: https://washington.zoom.us/rec/share/8MqKY8E-p82muZ-VBAVcgE88tYYcpq0jHmA2VNALgPyC_FJqK7JM1-4VJ7nxE7LT.ofgw0wgcnUnka30X
+      # readings:
+      #   - title: J&M III 3
+      #     link: https://web.stanford.edu/~jurafsky/slp3/3.pdf
+      #   - title: Eis 6.1-6.2, 6.4
+      # due: In-class quiz 1
+    - date: 10/14
+      # topics: Language modeling
+      # slides: assets/slides/lec09.pdf
+      # recording: https://washington.zoom.us/rec/share/JGM57WARFGaxUsiaz5A_wlRQKahPJ7nNqftkecrObF7viuCKyYb4pUf2F3SduDe2.O4KcZIDONXl83G5x
+      # readings:
+      #   - title: J&M III 3
+      #     link: https://web.stanford.edu/~jurafsky/slp3/3.pdf
+      #   - title: Eis 6.1-6.2, 6.4
 
 - week: 4
   size: 3
   days:
-    - date: 4/18
-      topics: Lexical semantics
-      slides: assets/slides/lec10.pdf
-      readings:
-        - title: J&M III 6
-          link: https://web.stanford.edu/~jurafsky/slp3/6.pdf
-        - title: Eis 14
-    - date: 4/20
-      topics: Lexical semantics, representation learning
-      slides: assets/slides/lec11.pdf
-      recording: https://washington.zoom.us/rec/share/3WtTkQfjXQNUGDR5AWkPrPumTM9cxDkBh_jr7rdqzhx_deFsqKWWXG91GL8W-L_6.DTGvAwxbYJbidu3u
-      readings:
-        - title: Eis 6.3, 6.5
-        - title: J&M III 7.5
-          link: https://web.stanford.edu/~jurafsky/slp3/7.pdf
-        - title: J&M III 9
-          link: https://web.stanford.edu/~jurafsky/slp3/9.pdf
-        - title: Goldberg 10
-          link: https://arxiv.org/abs/1510.00726
-      due: In-class quiz 2
-    - date: 4/22
-      topics: Neural networks
-      slides: assets/slides/lec12.pdf
-      recording: https://washington.zoom.us/rec/share/RQjWBaVrnylv4C86wE2orY_lCT91cYVb5fuYUptrEs5Uj4bsOoUfNAuOanEK2KHF.9TKGBvdfdaIaqtrb
-      readings:
-        - title: Baroni et al. 2014
-          link: https://www.aclweb.org/anthology/P14-1023/
-        - title: Bojanowski et al. 2017
-          link: https://arxiv.org/abs/1607.04606
-        - title: Peters et al. 2018
-          link: https://arxiv.org/abs/1802.05365
-      due: HW1 due
+    - date: 10/17
+      # topics: Lexical semantics
+      # slides: assets/slides/lec10.pdf
+      # readings:
+      #   - title: J&M III 6
+      #     link: https://web.stanford.edu/~jurafsky/slp3/6.pdf
+      #   - title: Eis 14
+    - date: 10/19
+      # topics: Lexical semantics, representation learning
+      # slides: assets/slides/lec11.pdf
+      # recording: https://washington.zoom.us/rec/share/3WtTkQfjXQNUGDR5AWkPrPumTM9cxDkBh_jr7rdqzhx_deFsqKWWXG91GL8W-L_6.DTGvAwxbYJbidu3u
+      # readings:
+      #   - title: Eis 6.3, 6.5
+      #   - title: J&M III 7.5
+      #     link: https://web.stanford.edu/~jurafsky/slp3/7.pdf
+      #   - title: J&M III 9
+      #     link: https://web.stanford.edu/~jurafsky/slp3/9.pdf
+      #   - title: Goldberg 10
+      #     link: https://arxiv.org/abs/1510.00726
+      # due: In-class quiz 2
+    - date: 10/21
+      # topics: Neural networks
+      # slides: assets/slides/lec12.pdf
+      # recording: https://washington.zoom.us/rec/share/RQjWBaVrnylv4C86wE2orY_lCT91cYVb5fuYUptrEs5Uj4bsOoUfNAuOanEK2KHF.9TKGBvdfdaIaqtrb
+      # readings:
+      #   - title: Baroni et al. 2014
+      #     link: https://www.aclweb.org/anthology/P14-1023/
+      #   - title: Bojanowski et al. 2017
+      #     link: https://arxiv.org/abs/1607.04606
+      #   - title: Peters et al. 2018
+      #     link: https://arxiv.org/abs/1802.05365
+      # due: HW1 due
 
 - week: 5
   size: 3
   days:
-    - date: 4/25
-      topics: Neural language models
-      slides: assets/slides/lec13.pdf
-      recording: https://washington.zoom.us/rec/share/OyBxVzO5uw_0m6ftGdHEMEl7g0sA-33QbqgxHbA7nkneJ0RvTRoNZQ55mUrnwzv4.MQOdGR_LSklI1yTH
-      readings:
-        - title: Annotated Transformer
-          link: https://nlp.seas.harvard.edu/2018/04/03/attention.html
-        - title: Illustrated Transformer
-          link: https://jalammar.github.io/illustrated-transformer/
-      due: HW2 out
-    - date: 4/27
-      topics: Recommender systems and online training
-      slides: assets/slides/lec14.pdf
-      recording: https://washington.zoom.us/rec/share/uf6WAUUqu57GHSto_qRbJHsLtv0fWB_thV84AeeNHYNktGZ6npSz10ciP2XU8BPK.yLu-Yh9HRlCL3gTX
-      readings:
-        - title: Recommender Systems lectures
-          link: https://youtube.com/playlist?list=PLaZQkZp6WhWwiSQYhFzpDWWVgz3hodXwr
-    - date: 4/29
-      topics: Sequence labeling
-      slides: assets/slides/lec15.pdf
-      recording: https://washington.zoom.us/rec/share/bvY4dMEuTsUxjL4PNJ6kL_KgKcaGN3Kt44br_8iM2HnhtlHgP20aOGwM2tqO5a_t.-BKy7DNO142yhzQq
-      readings:
-        - title: J&M III 8
-          link: https://web.stanford.edu/~jurafsky/slp3/8.pdf
-        - title: Eis 7.1-7.4, 8.1
-      due: In-class quiz 3
+    - date: 10/24
+      # topics: Neural language models
+      # slides: assets/slides/lec13.pdf
+      # recording: https://washington.zoom.us/rec/share/OyBxVzO5uw_0m6ftGdHEMEl7g0sA-33QbqgxHbA7nkneJ0RvTRoNZQ55mUrnwzv4.MQOdGR_LSklI1yTH
+      # readings:
+      #   - title: Annotated Transformer
+      #     link: https://nlp.seas.harvard.edu/2018/04/03/attention.html
+      #   - title: Illustrated Transformer
+      #     link: https://jalammar.github.io/illustrated-transformer/
+      # due: HW2 out
+    - date: 10/26
+      # topics: Recommender systems and online training
+      # slides: assets/slides/lec14.pdf
+      # recording: https://washington.zoom.us/rec/share/uf6WAUUqu57GHSto_qRbJHsLtv0fWB_thV84AeeNHYNktGZ6npSz10ciP2XU8BPK.yLu-Yh9HRlCL3gTX
+      # readings:
+      #   - title: Recommender Systems lectures
+      #     link: https://youtube.com/playlist?list=PLaZQkZp6WhWwiSQYhFzpDWWVgz3hodXwr
+    - date: 10/28
+      # topics: Sequence labeling
+      # slides: assets/slides/lec15.pdf
+      # recording: https://washington.zoom.us/rec/share/bvY4dMEuTsUxjL4PNJ6kL_KgKcaGN3Kt44br_8iM2HnhtlHgP20aOGwM2tqO5a_t.-BKy7DNO142yhzQq
+      # readings:
+      #   - title: J&M III 8
+      #     link: https://web.stanford.edu/~jurafsky/slp3/8.pdf
+      #   - title: Eis 7.1-7.4, 8.1
+      # due: In-class quiz 3
 
 - week: 6
   size: 3
   days:
-    - date: 5/02
-      topics: Sequence labeling
-      slides: assets/slides/lec16.pdf
-      recording: https://washington.zoom.us/rec/share/0mIbScziv6yQDx4IdBefU1x0V2TrMWmYzxah3atgaJRg69EbJmYug4Hp9sUGbQlv.g6obz1Uc3Bvnzfig
-      readings:
-        - title: Eis 7.1-7.4, 8.1
-        - title: Collins notes
-          link: http://www.cs.columbia.edu/~mcollins/hmms-spring2013.pdf
-    - date: 5/04
-      topics: Sequence labeling
-      slides: assets/slides/lec17.pdf
-      recording: https://washington.zoom.us/rec/share/-yfAfq4AEfc1VcpRTqpau0eq9gLZTStEZKSJ5oN1UXC0n7KofPWdIGDis0cfl3h1.H4fp3FB3H5G_ZAKa
-      readings:
-        - title: Eis 7.1-7.4, 8.1
-        - title: Collins notes
-          link: http://www.cs.columbia.edu/~mcollins/hmms-spring2013.pdf
-      due: In-class quiz 4
-    - date: 5/06
-      topics: Sequence labeling
-      slides: assets/slides/lec17.pdf
-      recording: https://drive.google.com/drive/folders/1rgBgmFLHqWRQPRJD776KUIgv0pWK5Oqk?usp=sharing
-      readings:
-        - title: Eis 7.5, 7.7, 8.3
-        - title: Sutton & McCallum 2.1-2.5
-          link: https://arxiv.org/abs/1011.4088
+    - date: 10/31
+      # topics: Sequence labeling
+      # slides: assets/slides/lec16.pdf
+      # recording: https://washington.zoom.us/rec/share/0mIbScziv6yQDx4IdBefU1x0V2TrMWmYzxah3atgaJRg69EbJmYug4Hp9sUGbQlv.g6obz1Uc3Bvnzfig
+      # readings:
+      #   - title: Eis 7.1-7.4, 8.1
+      #   - title: Collins notes
+      #     link: http://www.cs.columbia.edu/~mcollins/hmms-spring2013.pdf
+    - date: 11/02
+      # topics: Sequence labeling
+      # slides: assets/slides/lec17.pdf
+      # recording: https://washington.zoom.us/rec/share/-yfAfq4AEfc1VcpRTqpau0eq9gLZTStEZKSJ5oN1UXC0n7KofPWdIGDis0cfl3h1.H4fp3FB3H5G_ZAKa
+      # readings:
+      #   - title: Eis 7.1-7.4, 8.1
+      #   - title: Collins notes
+      #     link: http://www.cs.columbia.edu/~mcollins/hmms-spring2013.pdf
+      # due: In-class quiz 4
+    - date: 11/04
+      # topics: Sequence labeling
+      # slides: assets/slides/lec17.pdf
+      # recording: https://drive.google.com/drive/folders/1rgBgmFLHqWRQPRJD776KUIgv0pWK5Oqk?usp=sharing
+      # readings:
+      #   - title: Eis 7.5, 7.7, 8.3
+      #   - title: Sutton & McCallum 2.1-2.5
+      #     link: https://arxiv.org/abs/1011.4088
 
 - week: 7
   size: 3
   days:
-    - date: 5/09
-      topics: Neural sequence labeling
-      slides: assets/slides/lec18.pdf
-      recording: https://washington.zoom.us/rec/share/DfN5ZifTob-qVIGlL2HL0TZZKsetyd-_YPMFfxT5GsuSivVVThcnn8iap6ZV7y2k.DQduLcp3jz_PV9JW
+    - date: 11/07
+      # topics: Neural sequence labeling
+      # slides: assets/slides/lec18.pdf
+      # recording: https://washington.zoom.us/rec/share/DfN5ZifTob-qVIGlL2HL0TZZKsetyd-_YPMFfxT5GsuSivVVThcnn8iap6ZV7y2k.DQduLcp3jz_PV9JW
+      # readings:
+      #   - title: Eis 7.6
+      #   - title: Collobert et al. 2011
+      #     link: https://arxiv.org/abs/1103.0398
+    - date: 11/09
+      # topics: Parsing
+      # slides: assets/slides/lec19.pdf
+      # readings:
+      #   - title: J&M III 13
+      #     link: https://web.stanford.edu/~jurafsky/slp3/13.pdf
+      #   - title: Eis 10.1-10.2
+      # due: In-class quiz 5
+    - date: 11/11
+      topics: Veterans Day (no class)
+      slides:
+      recording:
       readings:
-        - title: Eis 7.6
-        - title: Collobert et al. 2011
-          link: https://arxiv.org/abs/1103.0398
-    - date: 5/11
-      topics: Parsing
-      slides: assets/slides/lec19.pdf
-      readings:
-        - title: J&M III 13
-          link: https://web.stanford.edu/~jurafsky/slp3/13.pdf
-        - title: Eis 10.1-10.2
-      due: In-class quiz 5
-    - date: 5/13
-      topics: Parsing
-      slides: assets/slides/lec20.pdf
-      recording: https://washington.zoom.us/rec/share/O9MJt0CJteqVR1dKRaI64UvvJesZVYK3h7wRuWUHDpgLK3CiRzvyrUt2dPNCgvZJ.L5xUCcz6FPW74y07
-      readings:
-        - title: J&M III 14
-          link: https://web.stanford.edu/~jurafsky/slp3/14.pdf
-        - title: Eis 11.1, 11.3
 
 - week: 8
   size: 3
   days:
-    - date: 5/16
-      topics: Parsing
-      slides: assets/slides/lec21.pdf
-      recording: https://washington.zoom.us/rec/share/5GLxgSsFpiBrIV_Q8CCtLqJ2-7vRPYmaIVTDgPiuXdnZb9vLrS335QCNqpQb5diU.K5IE-86vQRJZBuum
-      readings:
-        - title: Eis 11.1, 11.3
-        - title: Chen and Manning 2014
-      due: HW2 due, HW3 out
-    - date: 5/18
-      topics: "Parsing: research showcase"
-      slides: assets/slides/lec22.pdf
-      readings:
-      due: In-class quiz 6
-    - date: 5/20
-      topics: "Research topics: summarization"
-      slides: assets/slides/lec23.pdf
-      recording: https://washington.zoom.us/rec/share/eVOG4IH4b6y9VfhwjEV0wi2_zuKtQ8ew1YEcYj2AHUX6wskfenyG8PvYAqNK0aiP.ePBlFvIsA_VtPAJV
-      readings:
+    - date: 11/14
+      # topics: Parsing
+      # slides: assets/slides/lec21.pdf
+      # recording: https://washington.zoom.us/rec/share/5GLxgSsFpiBrIV_Q8CCtLqJ2-7vRPYmaIVTDgPiuXdnZb9vLrS335QCNqpQb5diU.K5IE-86vQRJZBuum
+      # readings:
+      #   - title: Eis 11.1, 11.3
+      #   - title: Chen and Manning 2014
+      # due: HW2 due, HW3 out
+    - date: 11/16
+      # topics: "Parsing: research showcase"
+      # slides: assets/slides/lec22.pdf
+      # readings:
+      # due: In-class quiz 6
+    - date: 11/18
+      # topics: "Research topics: summarization"
+      # slides: assets/slides/lec23.pdf
+      # recording: https://washington.zoom.us/rec/share/eVOG4IH4b6y9VfhwjEV0wi2_zuKtQ8ew1YEcYj2AHUX6wskfenyG8PvYAqNK0aiP.ePBlFvIsA_VtPAJV
+      # readings:
 
 - week: 9
   size: 3
   days:
-    - date: 5/23
-      topics: No class
+    - date: 11/21
+      topics:
       slides: 
       readings:
-    - date: 5/25
-      topics: TA session
-      slides: 
-      readings:
-      due: In-class quiz 7
-    - date: 5/27
-      topics: "Research topics: interpretability"
-      slides: assets/slides/lec24.pdf
-      recording: https://washington.zoom.us/rec/share/TT9GVOWbYVljcksoZOy53SlKrHmLaKpQ-90oU0ixFrffmT2UxGvFG5SRk0VBPn58.9Fd4Ws-6zGUXj6RC
+    - date: 11/23
+      # topics: TA session
+      # slides: 
+      # readings:
+      # due: In-class quiz 7
+    - date: 11/25
+      topics: Thanksgiving (no class)
+      # slides: assets/slides/lec24.pdf
+      # recording: https://washington.zoom.us/rec/share/TT9GVOWbYVljcksoZOy53SlKrHmLaKpQ-90oU0ixFrffmT2UxGvFG5SRk0VBPn58.9Fd4Ws-6zGUXj6RC
       readings:
 
 - week: 10
   size: 3
   days:
-    - date: 5/30
-      topics: Memorial day (no class)
+    - date: 11/28
+      topics:
       slides: 
       readings:
-    - date: 6/01
-      topics: "Research topics: computational ethics"
-      slides: assets/slides/lec25.pdf
-      recording: https://washington.zoom.us/rec/share/RBk-sAic7F4Vzp8SO3aPb_HgSglOojyWDJjNRodIeMV8DmdC2HXUzADeaNRkhX1h.Ohrm7QSFkxOsi0pw
-      readings:
-    - date: 6/03
-      topics: No class
+    - date: 11/30
+      # topics: "Research topics: computational ethics"
+      # slides: assets/slides/lec25.pdf
+      # recording: https://washington.zoom.us/rec/share/RBk-sAic7F4Vzp8SO3aPb_HgSglOojyWDJjNRodIeMV8DmdC2HXUzADeaNRkhX1h.Ohrm7QSFkxOsi0pw
+      # readings:
+    - date: 12/02
+      # topics: No class
+      # slides: 
+      # readings:
+      # due: In-class quiz 8, HW3 due
+
+- week: 11
+  size: 3
+  days:
+    - date: 12/05
+      topics:
       slides: 
       readings:
-      due: In-class quiz 8, HW3 due
+    - date: 12/07
+      # topics: "Research topics: computational ethics"
+      # slides: assets/slides/lec25.pdf
+      # recording: https://washington.zoom.us/rec/share/RBk-sAic7F4Vzp8SO3aPb_HgSglOojyWDJjNRodIeMV8DmdC2HXUzADeaNRkhX1h.Ohrm7QSFkxOsi0pw
+      # readings:
+    - date: 12/09
+      # topics: No class
+      # slides: 
+      # readings:
+      # due: In-class quiz 8, HW3 due

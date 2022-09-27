@@ -145,7 +145,7 @@ In light of the COVID-19 pandemic and recent surge in cases due to the Omicron v
 
 * **Masking.**  In accordance with UW's masking policy, masks are strongly recommended the first two weeks of the quarter and will be recommended after that, so long as we stay in the CDC’s “low” community level. Given the flexibility in choosing whether to wear a mask or not, please be respectful of others’ choices. Read more about UW's policy [here](https://www.ehs.washington.edu/covid-19-prevention-and-response/face-covering-requirements).
 
-  Mask availability: If you need a mask, please feel free to stop by the reception desk in the Allen Center, where they can provide you your choice of either a KN95/N95 mask or a cloth mask. Additionally, UW mask distribution will continue at various library locations, the Health Sciences Center, the HUB, and testing sites.
+  If you would like a mask, please feel free to stop by the reception desk in the Allen Center, where they can provide you your choice of either a KN95/N95 mask or a cloth mask. Additionally, UW mask distribution will continue at various library locations, the Health Sciences Center, the HUB, and testing sites.
   
 * **Social distancing.** Currently, UW does not require social distancing in the classroom or office hours for students who are vaccinated and wearing a mask; it can also make it difficult to navigate and interact in such spaces. We do not mandate social distancing, but ask that if another student asks you to maintain distance from them, that you respect their request.
 

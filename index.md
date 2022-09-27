@@ -129,7 +129,7 @@ Take care of yourself! As a student, you may experience a range of challenges th
 
 ## COVID-19 Safety
 
-In light of the COVID-19 pandemic and recent surge in cases due to the Omicron variant, and in accordance with [UW guidelines](https://www.washington.edu/coronavirus/winter2022/), we are implementing the following policies to ensure the safety of our students and instructors to the maximum extent possible:
+In light of the COVID-19 pandemic and recent surge in cases due to the Omicron variant, and in accordance with [UW guidelines](https://www.washington.edu/coronavirus/), we are implementing the following policies to ensure the safety of our students and instructors to the maximum extent possible:
 
 * **Course instruction** The course will be taught in-person only, following the UW guidelines.
 

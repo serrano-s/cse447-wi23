@@ -1,5 +1,5 @@
 ---
-name: Leo Zeyu Liu
+name: Leo Liu
 pronouns: 
 role: Teaching Assistant
 email: zeyuliu2@cs.washington.edu

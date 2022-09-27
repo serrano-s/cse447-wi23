@@ -18,7 +18,7 @@ tagline: CSE 447&#58; Natural Language Processing, Autumn 2022
 description: 
 author: Jacob Morrison
 baseurl: '/cse447-au22' # the subpath of your site, e.g. /blog
-url: 'https://fiftyloops.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://jdm.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
 # Theme settings
@@ -37,11 +37,11 @@ quick_links:
   - name: J&M III
     url: "https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf"
   - name: Discussion Board
-    url: "https://edstem.org/us/courses/21345/discussion/1327861"
+    url: "https://edstem.org/us/courses/29833/discussion/"
   - name: Canvas
     url: "https://canvas.uw.edu/courses/1545374"
   - name: GitLab
-    url: "https://gitlab.cs.washington.edu/cse447-sp2022"
+    url: "https://gitlab.cs.washington.edu/cse447-au22"
 
 assignments:
 #   - name: a1

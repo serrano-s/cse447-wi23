@@ -131,16 +131,26 @@ Take care of yourself! As a student, you may experience a range of challenges th
 
 In light of the COVID-19 pandemic and recent surge in cases due to the Omicron variant, and in accordance with [UW guidelines](https://www.washington.edu/coronavirus/winter2022/), we are implementing the following policies to ensure the safety of our students and instructors to the maximum extent possible:
 
+* **Course instruction** The course will be taught in-person only, following the UW guidelines.
+
 * **Remote access.** If you are sick or have potentially been exposed to COVID-19, **stay home**! While we encourage everyone to attend class in-person when they are well, there will always be a Zoom meeting for the class and there is no penalty for attending remotely. Office hours are also available both in-person and over Zoom (by appointment).
 
-* **Masking.** When in public, indoor spaces occupied by other people, **you must wear a mask**. This includes class sections and office hours. See more about UW's masking requirements [here](https://www.ehs.washington.edu/covid-19-prevention-and-response/face-covering-requirements). The instructors will abide by the same masking policy.
+* **Masking.**
+
+<!-- When in public, indoor spaces occupied by other people, **you must wear a mask**. This includes class sections and office hours. See more about UW's masking requirements [here](https://www.ehs.washington.edu/covid-19-prevention-and-response/face-covering-requirements). The instructors will abide by the same masking policy.
 
   For the purposes of this policy, a face covering must fit snugly against the sides of the face and completely cover the nose and mouth. Bandanas and gaiters are not considered face coverings under this policy. Students who do not wear a face mask will be asked to leave the classroom. Repeated failure to wear a face covering may result in being referred to the Student Conduct Office for possible disciplinary action.
 
   UW has approved a hydration exemption which allows students and instructors to briefly move aside their mask if they are drinking water even in class. This exemption is meant be used only for a brief moment to hydrate, and does not allow talking with one's mask off or having one's mask removed for a prolonged period of time. This exemption does not allow for eating food in classes.
+
+  --- -->
+
+  In accordance with UW's masking policy, masks are strongly recommended the first two weeks of the quarter and will be recommended after that, so long as we stay in the CDC’s “low” community level. Given the flexibility in choosing whether to wear a mask or not, please be respectful of others’ choices. Read more about UW's policy [here](https://www.ehs.washington.edu/covid-19-prevention-and-response/face-covering-requirements).
+
+  Mask availability: If you need a mask, please feel free to stop by the reception desk in the Allen Center, where they can provide you your choice of either a KN95/N95 mask or a cloth mask. Additionally, UW mask distribution will continue at various library locations, the Health Sciences Center, the HUB, and testing sites.
   
 * **Social distancing.** Currently, UW does not require social distancing in the classroom or office hours for students who are vaccinated and wearing a mask; it can also make it difficult to navigate and interact in such spaces. We do not mandate social distancing, but ask that if another student asks you to maintain distance from them, that you respect their request.
 
-* **What if you get sick?** See [this FAQ](https://www.washington.edu/coronavirus/faq/) for what to do.
+* **What if you get sick?** Stay home if you are sick! The [COVID-19 Public Health Flowchart](https://www.ehs.washington.edu/system/files/resources/COVID-19-public-health-flowchart.pdf) indicates what you should do if you test positive, have been exposed to COVID-19, or have symptoms. Also see [this FAQ](https://www.washington.edu/coronavirus/faq/) for what to do.
 
 * **What if we get sick?** We will reschedule class, hold it remotely, or bring in a substitute lecturer/facilitator if necessary to prevent exposing students. We will try to give notice as far in advance as possible if an in-person event is moving to be held remotely, but please check your email beforehand to be sure you don't miss anything.

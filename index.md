@@ -135,8 +135,6 @@ In light of the COVID-19 pandemic and recent surge in cases due to the Omicron v
 
 * **Remote access.** If you are sick or have potentially been exposed to COVID-19, **stay home**! While we encourage everyone to attend class in-person when they are well, there will always be a Zoom meeting for the class and there is no penalty for attending remotely. Office hours are also available both in-person and over Zoom (by appointment).
 
-* **Masking.**
-
 <!-- When in public, indoor spaces occupied by other people, **you must wear a mask**. This includes class sections and office hours. See more about UW's masking requirements [here](https://www.ehs.washington.edu/covid-19-prevention-and-response/face-covering-requirements). The instructors will abide by the same masking policy.
 
   For the purposes of this policy, a face covering must fit snugly against the sides of the face and completely cover the nose and mouth. Bandanas and gaiters are not considered face coverings under this policy. Students who do not wear a face mask will be asked to leave the classroom. Repeated failure to wear a face covering may result in being referred to the Student Conduct Office for possible disciplinary action.
@@ -145,7 +143,7 @@ In light of the COVID-19 pandemic and recent surge in cases due to the Omicron v
 
   --- -->
 
-  In accordance with UW's masking policy, masks are strongly recommended the first two weeks of the quarter and will be recommended after that, so long as we stay in the CDC’s “low” community level. Given the flexibility in choosing whether to wear a mask or not, please be respectful of others’ choices. Read more about UW's policy [here](https://www.ehs.washington.edu/covid-19-prevention-and-response/face-covering-requirements).
+* **Masking.**  In accordance with UW's masking policy, masks are strongly recommended the first two weeks of the quarter and will be recommended after that, so long as we stay in the CDC’s “low” community level. Given the flexibility in choosing whether to wear a mask or not, please be respectful of others’ choices. Read more about UW's policy [here](https://www.ehs.washington.edu/covid-19-prevention-and-response/face-covering-requirements).
 
   Mask availability: If you need a mask, please feel free to stop by the reception desk in the Allen Center, where they can provide you your choice of either a KN95/N95 mask or a cloth mask. Additionally, UW mask distribution will continue at various library locations, the Health Sciences Center, the HUB, and testing sites.
   

@@ -3,7 +3,7 @@
   days:
     - date: 9/28
       topics: Logistics
-      # slides: assets/slides/lec02.pdf
+      slides: assets/slides/lec-1.pdf
       recording: 
       readings:
          - title: Course website, syllabus

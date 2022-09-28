@@ -37,7 +37,7 @@ MWF 3:30-4:20pm, CSE2 G01
 
 This course will explore foundational statistical techniques for the automatic analysis of natural (human) language text. Towards this end the course will introduce pragmatic formalisms for representing structure in natural language, and algorithms for annotating raw text with those structures. The dominant modeling paradigm is corpus-driven statistical learning, covering both supervised and unsupervised methods. Algorithms for NLP is a lab-based course. This means that instead of homeworks and exams, you will mainly be graded based on three hands-on coding projects.
 
-This course assumes a good background in basic probability and a strong ability to program in Python. Experience using numerical libraries such as NumPy and neural network libraries such as PyTorch are a plus. Prior experience with machine learning, linguistics or natural languages is helpful, but not required. There will be a lot of statistics, algorithms, and coding in this class.
+This course assumes a good background in basic probability and a strong ability to program in Python. Experience using numerical libraries such as NumPy and neural network libraries such as PyTorch are a plus. Prior experience with machine learning is important. Prior experience in linguistics or natural languages is helpful, but not required. There will be a lot of statistics, algorithms, and coding in this class.
 
 ## Calendar
 

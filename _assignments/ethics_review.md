@@ -1,7 +1,7 @@
 ---
 title: Ethics Review
 nav_exclude: true
-include_nav_home: true
+include_nav_home: false
 ---
 
 # Ethics Review Assignment

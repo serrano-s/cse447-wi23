@@ -17,7 +17,7 @@ title: Natural Language Processing
 tagline: CSE 447&#58; Natural Language Processing, Autumn 2022
 description: 
 author: Jacob Morrison
-baseurl: '/cse447-au22' # the subpath of your site, e.g. /blog
+baseurl: '/courses/cse447/22au' # the subpath of your site, e.g. /blog
 url: 'https://jdm.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 

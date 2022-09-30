@@ -4,12 +4,12 @@
     - date: 9/28
       topics: Logistics
       slides: assets/slides/lec-1.pdf
-      recording: 
+      recording: https://drive.google.com/file/d/1etygkHhWh4miL3kIFktTY2JFeLBTKCzp/view?usp=sharing
       readings:
          - title: Course website, syllabus
     - date: 9/30
       topics: Introduction
-      # slides: assets/slides/lec03.pdf
+      slides: assets/slides/lec-2.pdf
       recording: 
       readings:
          - title: Eis 1

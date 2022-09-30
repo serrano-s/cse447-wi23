@@ -7,4 +7,4 @@ website: https://leo-liuzy.github.io/
 photo: leo.jpg
 ---
 
-<!-- OH: Mon 11am-12pm, [Zoom](https://washington.zoom.us/my/xhan77) -->
+OH: Wed 2:00-3:00pm

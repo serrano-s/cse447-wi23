@@ -7,4 +7,4 @@ website: https://leo-liuzy.github.io/
 photo: leo.jpg
 ---
 
-OH: Wed 2:00-3:00pm
+OH: Wed 2:00-3:00pm, Gates Center 153

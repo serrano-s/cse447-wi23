@@ -10,7 +10,7 @@
     - date: 9/30
       topics: Introduction
       slides: assets/slides/lec-2.pdf
-      recording: 
+      recording: https://drive.google.com/file/d/1zJ8erMWL0x4kpeN3fFylB4hUsTTv7VI-/view?usp=sharing
       readings:
          - title: Eis 1
 
@@ -19,7 +19,7 @@
   days:
     - date: 10/03
       topics: Introduction
-      # slides: assets/slides/lec04.pdf
+      slides: assets/slides/lec-3.pdf
       recording: 
       readings:
          - title: Eis 1
@@ -94,7 +94,7 @@
          - title: Eis 14
       # due: In-class quiz 2
     - date: 10/21
-      topics: Lexical semantics, representation learning
+      topics: Representation learning with neural networks
       # slides: assets/slides/lec12.pdf
       recording: 
       readings:
@@ -111,7 +111,7 @@
   size: 3
   days:
     - date: 10/24
-      topics: Neural networks
+      topics: Representation learning with neural networks
       # slides: assets/slides/lec13.pdf
       recording: 
       readings:
@@ -119,18 +119,16 @@
            link: https://www.aclweb.org/anthology/P14-1023/
          - title: Bojanowski et al. 2017
            link: https://arxiv.org/abs/1607.04606
-         - title: Peters et al. 2018
-           link: https://arxiv.org/abs/1802.05365
+         - title: Garg et al. 2018
+           link: https://www.pnas.org/doi/10.1073/pnas.1720347115
       # due: HW2 out
     - date: 10/26
-      topics: Neural language models
+      topics: Language modeling with neural networks
       # slides: assets/slides/lec14.pdf
       recording: 
       readings:
-         - title: Annotated Transformer
-           link: https://nlp.seas.harvard.edu/2018/04/03/attention.html
-         - title: Illustrated Transformer
-           link: https://jalammar.github.io/illustrated-transformer/
+         - title: Peters et al. 2018
+           link: https://arxiv.org/abs/1802.05365
     - date: 10/28
       topics: Sequence labeling
       # slides: assets/slides/lec15.pdf
@@ -221,14 +219,20 @@
   size: 3
   days:
     - date: 11/21
-      topics: "Research topics: TBD" 
+      topics: "Advanced topics: Transformers"
       # slides: 
       readings:
+         - title: Annotated Transformer
+           link: https://nlp.seas.harvard.edu/2018/04/03/attention.html
+         - title: Illustrated Transformer
+           link: https://jalammar.github.io/illustrated-transformer/
       recording: 
     - date: 11/23
-      topics: "Advanced topics: recommender systems and online training"
+      topics: "Advanced topics: Summarization"
       # slides: 
       readings:
+         - title: Kassas et al. 2021
+           link: https://www.sciencedirect.com/science/article/pii/S0957417420305030
       recording: 
     - date: 11/25
       topics: Thanksgiving (no class)
@@ -237,7 +241,7 @@
   size: 3
   days:
     - date: 11/28
-      topics: "Research topics: summarization"
+      topics: "Advanced topics: Recommender systems and online training"
       # slides: 
       readings:
       recording: 

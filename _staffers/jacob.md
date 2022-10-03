@@ -7,4 +7,4 @@ website: https://jdm.ai
 photo: jacob.jpg
 ---
 
-OH: Fri 2:00-3:00pm
+OH: Fri 2:00-3:00pm, Allen 220

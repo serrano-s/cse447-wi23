@@ -26,7 +26,7 @@
       # due: HW1 out
     - date: 10/05
       topics: Text classification
-      # slides: assets/slides/lec05.pdf
+      slides: assets/slides/lec-4.pdf
       recording: 
       readings:
          - title: Eis 2
@@ -34,7 +34,7 @@
            link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
     - date: 10/07
       topics: Text classification
-      # slides: assets/slides/lec06.pdf
+      slides: assets/slides/lec-4.pdf
       recording: 
       readings:
          - title: Eis 2

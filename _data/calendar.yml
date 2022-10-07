@@ -13,6 +13,7 @@
       recording: https://drive.google.com/file/d/1zJ8erMWL0x4kpeN3fFylB4hUsTTv7VI-/view?usp=sharing
       readings:
          - title: Eis 1
+      due: HW1 out
 
 - week: 2
   size: 3
@@ -23,7 +24,6 @@
       recording: 
       readings:
          - title: Eis 1
-      # due: HW1 out
     - date: 10/05
       topics: Text classification
       slides: assets/slides/lec-4-updated.pdf
@@ -64,7 +64,7 @@
          - title: Eis 2
          - title: J&M III 5
            link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
-      # due: In-class quiz 1
+      due: In-class quiz 1
     - date: 10/14
       topics: Language modeling
       # slides: assets/slides/lec09.pdf
@@ -105,7 +105,7 @@
            link: https://web.stanford.edu/~jurafsky/slp3/9.pdf
          - title: Goldberg 10
            link: https://arxiv.org/abs/1510.00726
-      # due: HW1 due
+      due: HW1 due
 
 - week: 5
   size: 3

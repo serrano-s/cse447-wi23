@@ -7,4 +7,4 @@ website:
 photo: leroy.jpeg
 ---
 
-OH: Thu 12:30-1:30pm
+OH: Thu 5:00-6:00pm on <a href="https://washington.zoom.us/my/lrywng">Zoom</a>

@@ -26,8 +26,8 @@
       # due: HW1 out
     - date: 10/05
       topics: Text classification
-      slides: assets/slides/lec-4.pdf
-      recording: 
+      slides: assets/slides/lec-4-updated.pdf
+      recording: https://drive.google.com/file/d/1Gf7mLn7N7iYnzvGTVQws7SirM-zUpr1w/view?usp=sharing
       readings:
          - title: Eis 2
          - title: J&M III 4

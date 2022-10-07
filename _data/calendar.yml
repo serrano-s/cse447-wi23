@@ -137,7 +137,7 @@
          - title: J&M III 8
            link: https://web.stanford.edu/~jurafsky/slp3/8.pdf
          - title: Eis 7.1-7.4, 8.1
-      # due: In-class quiz 3
+      due: HW2 Out
 
 - week: 6
   size: 3
@@ -214,6 +214,7 @@
       readings:
          - title: Eis 11.1, 11.3
          - title: Chen and Manning 2014
+      due: HW2 Due
 
 - week: 9
   size: 3
@@ -227,6 +228,7 @@
          - title: Illustrated Transformer
            link: https://jalammar.github.io/illustrated-transformer/
       recording: 
+      due: HW3 Out
     - date: 11/23
       topics: "Advanced topics: Summarization"
       # slides: 
@@ -270,6 +272,7 @@
       # slides: assets/slides/lec25.pdf
       recording: 
       readings:
+      due: HW3 Due
     - date: 12/09
       topics: TBD
       # slides: 

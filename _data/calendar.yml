@@ -35,7 +35,7 @@
     - date: 10/07
       topics: Text classification
       slides: assets/slides/lec-4.pdf
-      recording: 
+      recording: https://drive.google.com/file/d/1M8lkTYQ7u-mqtywKKQHPdfCKq9RczMdd/view?usp=sharing
       readings:
          - title: Eis 2
          - title: J&M III 4
@@ -48,7 +48,7 @@
   days:
     - date: 10/10
       topics: Text classification
-      # slides: assets/slides/lec07.pdf
+      slides: assets/slides/lec-6.pdf
       recording: 
       readings:
          - title: Eis 2

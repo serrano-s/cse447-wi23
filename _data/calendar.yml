@@ -48,8 +48,8 @@
   days:
     - date: 10/10
       topics: Text classification
-      slides: assets/slides/lec-6.pdf
-      recording: 
+      slides: assets/slides/lec-6-updated.pdf
+      recording: https://drive.google.com/file/d/1-fmWbiF99A4PekryObeNvyVEnCanI5Qa/view?usp=sharing
       readings:
          - title: Eis 2
          - title: J&M III 5
@@ -58,22 +58,26 @@
            link: https://aclanthology.org/W02-1011.pdf
     - date: 10/12
       topics: Text classification
-      # slides: assets/slides/lec08.pdf
+      slides: assets/slides/lec-7.pdf
       recording: 
       readings:
-         - title: Eis 2
+        #  - title: Eis 2
          - title: J&M III 5
            link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
       due: In-class quiz 1
     - date: 10/14
-      topics: Language modeling
+      # topics: Language modeling
+      topics: Text classification
       # slides: assets/slides/lec09.pdf
       recording: 
+      # readings:
+      #    - title: J&M III 3
+      #      link: https://web.stanford.edu/~jurafsky/slp3/3.pdf
+      #    - title: Eis 6.1-6.2, 6.4
       readings:
-         - title: J&M III 3
-           link: https://web.stanford.edu/~jurafsky/slp3/3.pdf
-         - title: Eis 6.1-6.2, 6.4
-
+        #  - title: Eis 2
+         - title: J&M III 5
+           link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
 - week: 4
   size: 3
   days:
@@ -85,26 +89,34 @@
            link: https://web.stanford.edu/~jurafsky/slp3/3.pdf
          - title: Eis 6.1-6.2, 6.4
     - date: 10/19
-      topics: Lexical semantics
+      # topics: Lexical semantics
+      topics: Language modeling
       # slides: assets/slides/lec11.pdf
+      recording: 
+      readings:
+         - title: J&M III 3
+           link: https://web.stanford.edu/~jurafsky/slp3/3.pdf
+         - title: Eis 6.1-6.2, 6.4
+        #  - title: J&M III 6
+        #    link: https://web.stanford.edu/~jurafsky/slp3/6.pdf
+        #  - title: Eis 14
+      # due: In-class quiz 2
+    - date: 10/21
+      # topics: Representation learning with neural networks
+      topics: Lexical semantics
+      # slides: assets/slides/lec12.pdf
       recording: 
       readings:
          - title: J&M III 6
            link: https://web.stanford.edu/~jurafsky/slp3/6.pdf
          - title: Eis 14
-      # due: In-class quiz 2
-    - date: 10/21
-      topics: Representation learning with neural networks
-      # slides: assets/slides/lec12.pdf
-      recording: 
-      readings:
-         - title: Eis 6.3, 6.5
-         - title: J&M III 7.5
-           link: https://web.stanford.edu/~jurafsky/slp3/7.pdf
-         - title: J&M III 9
-           link: https://web.stanford.edu/~jurafsky/slp3/9.pdf
-         - title: Goldberg 10
-           link: https://arxiv.org/abs/1510.00726
+        #  - title: Eis 6.3, 6.5
+        #  - title: J&M III 7.5
+        #    link: https://web.stanford.edu/~jurafsky/slp3/7.pdf
+        #  - title: J&M III 9
+        #    link: https://web.stanford.edu/~jurafsky/slp3/9.pdf
+        #  - title: Goldberg 10
+        #    link: https://arxiv.org/abs/1510.00726
       due: HW1 due
 
 - week: 5

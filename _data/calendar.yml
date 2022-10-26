@@ -127,7 +127,7 @@
       # topics: Representation learning with neural networks
       slides: assets/slides/lec-12.pdf
       topics: Lexical semantics
-      recording: 
+      recording: https://drive.google.com/file/d/1OSWV-jpRa4f_VjYUS9mLovr4M4yTxZh-/view?usp=sharing
       readings:
          - title: Eis 14
          - title: J&M III 6
@@ -142,7 +142,7 @@
     - date: 10/26
       # topics: Language modeling with neural networks
       topics: Lexical semantics
-      # slides: assets/slides/lec14.pdf
+      slides: assets/slides/lec-13.pdf
       recording: 
       readings:
          - title: Eis 14
@@ -150,6 +150,7 @@
            link: https://web.stanford.edu/~jurafsky/slp3/6.pdf
         #  - title: Peters et al. 2018
         #    link: https://arxiv.org/abs/1802.05365
+      due: In-class quiz 3
     - date: 10/28
       topics: Neural networks
       # slides: assets/slides/lec15.pdf
@@ -193,7 +194,7 @@
            link: https://web.stanford.edu/~jurafsky/slp3/8.pdf
         #  - title: Collins notes
           #  link: http://www.cs.columbia.edu/~mcollins/hmms-spring2013.pdf
-      # due: In-class quiz 4
+      due: In-class quiz 4
     - date: 11/04
       topics: Sequence labeling
       # slides: assets/slides/lec17.pdf
@@ -219,7 +220,7 @@
       # slides: assets/slides/lec19.pdf
       readings:
          - title: Eis 7.6
-      # due: In-class quiz 5
+      due: In-class quiz 5
     - date: 11/11
       topics: Veterans Day (no class)
 
@@ -243,7 +244,7 @@
         #  - title: J&M III 14
         #    link: https://web.stanford.edu/~jurafsky/slp3/14.pdf
         #  - title: Eis 11.1-11.3
-      # due: In-class quiz 6
+      due: In-class quiz 6
     - date: 11/18
       topics: Parsing
       # slides: assets/slides/lec23.pdf
@@ -262,7 +263,7 @@
       readings:
          - title: Chen and Manning 2014
       recording: 
-      due: HW2 due
+      due: HW2 due, In-class quiz 7
       # due: HW3 Out
     - date: 11/23
       topics: "Advanced topics: Summarization"
@@ -303,6 +304,7 @@
       # slides: 
       recording: 
       readings:
+      due: In-class quiz 8
     - date: 12/07
       topics: TBD
       # slides: assets/slides/lec25.pdf

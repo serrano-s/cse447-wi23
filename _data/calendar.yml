@@ -143,7 +143,7 @@
       # topics: Language modeling with neural networks
       topics: Lexical semantics
       slides: assets/slides/lec-13.pdf
-      recording: 
+      recording: https://drive.google.com/file/d/1JAXoUZgUtr3sz9_barw0GaBRO7a98Sw8/view?usp=sharing
       readings:
          - title: Eis 14
          - title: J&M III 6
@@ -153,8 +153,8 @@
       due: In-class quiz 3
     - date: 10/28
       topics: Neural networks
-      # slides: assets/slides/lec15.pdf
-      recording: 
+      slides: assets/slides/lec-14.pdf
+      recording: https://drive.google.com/file/d/14xK-OM-05AOykoJEeuXydec1Bgf16gwR/view?usp=sharing
       readings:
         #  - title: J&M III 8
         #    link: https://web.stanford.edu/~jurafsky/slp3/8.pdf
@@ -173,8 +173,8 @@
   days:
     - date: 10/31
       topics: Neural networks
-      # slides: assets/slides/lec16.pdf
-      recording: 
+      slides: assets/slides/lec-15.pdf
+      recording: https://drive.google.com/file/d/1VIMxm0U59TQ9S2C7AaUXPc4nC08dEVkn/view?usp=sharing
       readings:
         #  - title: Eis 7.1-7.4, 8.1
         #  - title: Collins notes
@@ -186,8 +186,8 @@
       due: HW2 Out
     - date: 11/02
       topics: Sequence labeling
-      # slides: assets/slides/lec17.pdf
-      recording: 
+      slides: assets/slides/lec-16.pdf
+      recording: https://drive.google.com/file/d/12p_8MYuJeghqfbb6IdPhS62D5P1pkFIr/view?usp=sharing
       readings:
          - title: Eis 7.1-7.4, 8.1
          - title: J&M III 8
@@ -197,8 +197,8 @@
       due: In-class quiz 4
     - date: 11/04
       topics: Sequence labeling
-      # slides: assets/slides/lec17.pdf
-      recording: 
+      slides: assets/slides/lec-17.pdf
+      recording: https://drive.google.com/file/d/1FqzstASGbRYfyuer70jKSCXW1KkMj64M/view?usp=sharing
       readings:
          - title: Eis 7.1-7.4, 8.1
          - title: Collins notes
@@ -209,7 +209,7 @@
   days:
     - date: 11/07
       topics: Sequence labeling
-      # slides: assets/slides/lec18.pdf
+      slides: assets/slides/lec-18.pdf
       recording: 
       readings:
          - title: Eis 7.5, 7.7, 8.3

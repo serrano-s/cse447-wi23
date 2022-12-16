@@ -70,6 +70,9 @@ Calendar is tentative and subject to change. More details will be added as the q
           {% if day.recording %}
             <a href="{{day.recording}}" class="cal-content-link">[recording]</a>
           {% endif %}
+          {% if day.supplement %}
+            <a href="{{day.supplement}}" class="cal-content-link">[supplementary recording]</a>
+          {% endif %}
         </td>
         <td class="cal-content">
           {% for reading in day.readings %}

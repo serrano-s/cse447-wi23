@@ -175,6 +175,7 @@
       topics: Neural networks
       slides: assets/slides/lec-15.pdf
       recording: https://drive.google.com/file/d/1VIMxm0U59TQ9S2C7AaUXPc4nC08dEVkn/view?usp=sharing
+      supplement: https://drive.google.com/file/d/1mb4IK7UL5QEShE3zd36soIwHxz_TOm4S/view?usp=sharing
       readings:
         #  - title: Eis 7.1-7.4, 8.1
         #  - title: Collins notes
@@ -197,7 +198,7 @@
       due: In-class quiz 4
     - date: 11/04
       topics: Sequence labeling
-      slides: assets/slides/lec-17.pdf
+      slides: assets/slides/lec-17-fixed.pdf
       recording: https://drive.google.com/file/d/1FqzstASGbRYfyuer70jKSCXW1KkMj64M/view?usp=sharing
       readings:
          - title: Eis 7.1-7.4, 8.1
@@ -209,15 +210,16 @@
   days:
     - date: 11/07
       topics: Sequence labeling
-      slides: assets/slides/lec-18.pdf
-      recording: 
+      slides: assets/slides/lec-18-fixed.pdf
+      recording: https://drive.google.com/file/d/1aVXzG8UQt53K18b7MvSzYiC-4MDcQpBQ/view?usp=sharing
       readings:
          - title: Eis 7.5, 7.7, 8.3
          - title: Sutton & McCallum 2.1 - 2.5
            link: https://arxiv.org/abs/1011.4088
     - date: 11/09
       topics: Sequence labeling
-      # slides: assets/slides/lec19.pdf
+      slides: assets/slides/lec-19.pdf
+      recording: https://drive.google.com/file/d/1uzknBp0WjgXN1NBXxIKl8U9xvVjxb6hL/view?usp=sharing
       readings:
          - title: Eis 7.6
       due: In-class quiz 5
@@ -229,14 +231,15 @@
   days:
     - date: 11/14
       topics: Neural sequence labeling 
-      # slides: assets/slides/lec21.pdf
-      recording: 
+      slides: assets/slides/lec-20.pdf
+      recording: https://drive.google.com/file/d/1v24oWhoqJPeAY6riuwr9k7c3_-PgNBXq/view?usp=sharing
       readings:
          - title: Eis 7.6
       # due: HW2 due, HW3 out
     - date: 11/16
       topics: Parsing
-      # slides: assets/slides/lec22.pdf
+      slides: assets/slides/lec-21.pdf
+      recording: https://drive.google.com/file/d/1xTWx-zVJ75wi3YXY-woUhiMMBOxiF3Kl/view?usp=sharing
       readings:
          - title: Eis 10.1-10.2
          - title: J&M III 13
@@ -247,8 +250,8 @@
       due: In-class quiz 6
     - date: 11/18
       topics: Parsing
-      # slides: assets/slides/lec23.pdf
-      recording: 
+      slides: assets/slides/lec-22.pdf
+      recording: https://drive.google.com/file/d/1XSgusT5ze9BrQ0ey4RUZ54HrD5ykegaF/view?usp=sharing
       readings:
          - title: Eis 11.1, 11.3
          - title: J&M III 14
@@ -258,20 +261,18 @@
   size: 3
   days:
     - date: 11/21
-      topics: Parsing
-      # slides: 
+      topics: Cancelled
       readings:
-         - title: Chen and Manning 2014
       recording: 
       due: HW2 due, In-class quiz 7
       # due: HW3 Out
     - date: 11/23
-      topics: "Advanced topics: Summarization"
-      # slides: 
+      topics: Parsing # "Advanced topics: Summarization"
+      slides: assets/slides/lec-23.pdf
       readings:
-         - title: Kassas et al. 2021
-           link: https://www.sciencedirect.com/science/article/pii/S0957417420305030
-      recording: 
+         - title: Eis 11.1, 11.3
+         - title: Chen and Manning 2014
+      recording: https://drive.google.com/file/d/1DuRRt8v_xY8qfLExLd_-Hf-VKkh99Yal/view?usp=sharing
     - date: 11/25
       topics: Thanksgiving (no class)
 
@@ -280,33 +281,39 @@
   days:
     - date: 11/28
       topics: "Advanced topics: Recommender systems and online training"
-      # slides: 
+      slides: assets/slides/lec-24.pdf
       readings:
-      recording: 
+         - title: Recommender Systems Lectures
+           link: https://youtube.com/playlist?list=PLaZQkZp6WhWwiSQYhFzpDWWVgz3hodXwr
+      recording: https://drive.google.com/file/d/1tnfvVSM3TbmZ9ttOlNKvdI1mz1vRf_D4/view?usp=sharing
       due: HW3 out
     - date: 11/30
-      topics: "Research topics: computational ethics"
-      # slides: assets/slides/lec25.pdf
-      recording: 
+      topics: "Research topics: Summarization"
+      slides: assets/slides/lec-25.pdf
+      recording: https://drive.google.com/file/d/1Vq828yfn4osq-afZdp3XpJM5EIpVo4NF/view?usp=sharing
       readings:
+         - title: Kassas et al. 2021
+           link: https://www.sciencedirect.com/science/article/pii/S0957417420305030
     - date: 12/02
-      topics: "Advanced topics: NLP + Historical linguistics"
-      # slides: 
+      topics: "Advanced topics: Computational ethics"
+      slides: assets/slides/lec-26.pdf
       readings: 
-      recording: 
+         - title: The Trouble With Bias
+           link: https://www.youtube.com/watch?v=fMym_BKWQzk
+      recording: https://drive.google.com/file/d/1W4VuTE0D0ILbxQzUauczPSaEOWUxaPOG/view?usp=sharing
       # due: In-class quiz 8, HW3 due
 
 - week: 11
   size: 3
   days:
     - date: 12/05
-      topics: Q&A
-      # slides: 
-      recording: 
+      topics: "Advanced topics: Natural Language Understanding"
+      slides: assets/slides/lec-27.pdf
+      recording: https://drive.google.com/file/d/1plqwOBJPtvA6TOOg3Wms8S9k1iRhsEo9/view?usp=sharing
       readings:
       due: In-class quiz 8
     - date: 12/07
-      topics: TBD
+      topics: Q&A
       # slides: assets/slides/lec25.pdf
       recording: 
       readings:

@@ -113,7 +113,7 @@ Calendar is tentative and subject to change. More details will be added as the q
 * Quizzes: 10%
     - Starting from the 3rd week, we will have quizzes on Wednesdays.
     - There will be 8 quizzes in total.
-    - Quizzes will be released 10 minutes in the beginning of the class.
+    - Quizzes will be released at the end of class on Canvas and be available for twelve hours. They should take approximately ten minutes to complete.
     - 5 best quizzes will be counted into final score. Each quiz will occupy 2% of final score. 
 
 * Participation: 10% bonus

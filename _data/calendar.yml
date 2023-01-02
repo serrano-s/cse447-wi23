@@ -62,7 +62,7 @@
            link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
          - title: Pang et al. 2002
            link: https://aclanthology.org/W02-1011.pdf
-      due: In-class quiz 1
+      due: Quiz 1
     - date: 1/20
       topics: Text classification
       slides:
@@ -95,7 +95,7 @@
          - title: J&M III 3
            link: https://web.stanford.edu/~jurafsky/slp3/3.pdf
          - title: Eis 6.1-6.2, 6.4
-      due: In-class quiz 2
+      due: Quiz 2
     - date: 1/27
       # topics: Lexical semantics
       topics: Language modeling
@@ -146,7 +146,7 @@
         #  - title: Garg et al. 2018
         #    link: https://www.pnas.org/doi/10.1073/pnas.1720347115
       # due: HW2 out
-      due: In-class quiz 3
+      due: Quiz 3
     - date: 2/3
       # topics: Language modeling with neural networks
       topics: Lexical semantics
@@ -191,7 +191,7 @@
            link: https://nlp.seas.harvard.edu/2018/04/03/attention.html
          - title: Illustrated Transformer
            link: https://jalammar.github.io/illustrated-transformer/
-      due: In-class quiz 4
+      due: Quiz 4
     - date: 2/10
       topics: Sequence labeling
       slides:
@@ -222,7 +222,7 @@
          - title: Eis 7.5, 7.7, 8.3
          - title: Sutton & McCallum 2.1 - 2.5
            link: https://arxiv.org/abs/1011.4088
-      due: In-class quiz 5
+      due: Quiz 5
     - date: 2/17
       topics: Sequence labeling
       slides:
@@ -246,7 +246,7 @@
       readings:
          - title: Eis 7.6
       # due: HW2 due, HW3 out
-      due: In-class quiz 6, HW3 out
+      due: Quiz 6, HW3 out
     - date: 2/24
       topics: Parsing
       slides:
@@ -278,7 +278,7 @@
          - title: Eis 11.1, 11.3
          - title: Chen and Manning 2014
       recording:
-      due: In-class quiz 7
+      due: Quiz 7
     - date: 3/3
       topics: "Advanced topics: Recommender systems and online training"
       slides:
@@ -304,8 +304,7 @@
          - title: The Trouble With Bias
            link: https://www.youtube.com/watch?v=fMym_BKWQzk
       recording:
-      # due: In-class quiz 8, HW3 due
-      due: In-class quiz 8
+      due: Quiz 8
     - date: 3/10
       topics: "Advanced topics: Natural Language Understanding"
       slides:

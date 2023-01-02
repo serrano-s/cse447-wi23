@@ -22,21 +22,21 @@ schedule:
   - name: Monday
     events:
       - name: Lecture
-        start: 3:30 PM
-        end: 4:20 PM
-        location: CSE2 G01
+        start: 1:30 PM
+        end: 2:20 PM
+        location: ECE 105
   - name: Tuesday
   - name: Wednesday
     events:
       - name: Lecture
-        start: 3:30 PM
-        end: 4:20 PM
-        location: CSE2 G01
+        start: 1:30 PM
+        end: 2:20 PM
+        location: ECE 105
   - name: Thursday
   - name: Friday
     events:
       - name: Lecture
-        start: 3:30 PM
-        end: 4:20 PM
-        location: CSE2 G01
+        start: 1:30 PM
+        end: 2:20 PM
+        location: ECE 105
 ---

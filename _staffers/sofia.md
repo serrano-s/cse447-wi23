@@ -1,10 +1,10 @@
 ---
-name: Yulia Tsvetkov
+name: Sofia Serrano
 pronouns: 
 role: Instructor
-email: yuliats@cs.washington.edu
-website: https://homes.cs.washington.edu/~yuliats/
-photo: yulia.jpg
+email: sofias6@cs.washington.edu
+website: https://homes.cs.washington.edu/~sofias6/
+photo: sofia.jpg
 ---
 
-OH: Fri 2:30-3:15pm, CSE 566 (preferably by appointment)
+OH: TBD

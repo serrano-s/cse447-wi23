@@ -1,3 +1,11 @@
+# Summary of how to compile
+
+From the root of the repo, run the command `bundle exec jekyll build`.
+
+That will create and populate a directory called `_site`. Then just copy the contents of `_site` up to a CSE server and place them in `/cse/web/courses/cse447/23wi/`.
+
+(The main file that will need to be updated throughout the term is `_data/calendar.yml`, with slides added to `assets/slides/`.)
+
 # Just the Class
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:

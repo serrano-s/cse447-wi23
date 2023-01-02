@@ -7,4 +7,6 @@ website:
 photo: daksh.jpg
 ---
 
-OH: Tues 3:00-4:00pm on <a href="https://washington.zoom.us/j/93311493414">Zoom</a>
+OH: TBD
+
+[comment]: <> (<a href="https://washington.zoom.us/j/93311493414">Zoom</a>)

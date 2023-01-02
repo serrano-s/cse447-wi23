@@ -1,12 +1,10 @@
 ---
-name: Daksh Sinha
+name: Khirod Sahoo
 pronouns: 
 role: Teaching Assistant
-email: daksh97@uw.edu
+email: ksahoo@uw.edu
 website: 
-photo: daksh.jpg
+photo: khirod.jpg
 ---
 
 OH: TBD
-
-[comment]: <> (<a href="https://washington.zoom.us/j/93311493414">Zoom</a>)

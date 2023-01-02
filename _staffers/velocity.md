@@ -1,10 +1,10 @@
 ---
-name: Jacob Morrison
+name: Xinyan (Velocity) Yu
 pronouns: 
 role: Teaching Assistant
-email: jacobm00@cs.washington.edu
-website: https://jdm.ai
-photo: jacob.jpg
+email: xyu530@cs.washington.edu
+website: https://velocitycavalry.github.io/
+photo: velocity.jpg
 ---
 
-OH: Fri 2:00-3:00pm, Allen 220
+OH: TBD

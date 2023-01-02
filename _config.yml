@@ -43,7 +43,7 @@ quick_links:
   - name: GitLab
     url: "https://gitlab.cs.washington.edu/cse447-wi23"
 
-assignments:
+#assignments:
 #   - name: a1
 #     url: "https://github.com/xhan77/uw-cse447-a1-public"
 #   - name: a2
@@ -84,11 +84,6 @@ defaults:
       type: announcements
     values:
       layout: announcement
-  - scope:
-      path: ''
-      type: assignments
-    values:
-      layout: default
 
 just_the_docs:
   # Define which collections are used in just-the-docs

@@ -100,6 +100,8 @@ if base_url_of_course.endswith('/'):
     base_url_of_course = base_url_of_course[:-1]
 rel_url = cur_section_name.lower()
 for char in punctuation:
+    if char == '-':
+        continue
     rel_url = rel_url.replace(char, '')
 rel_url = '/#' + rel_url.replace(' ', '-')
 
@@ -292,6 +294,8 @@ with open('index.md', 'r') as f:
             cur_content = ''
             rel_url = cur_section_name.lower()
             for char in punctuation:
+                if char == '-':
+                    continue
                 rel_url = rel_url.replace(char, '')
             rel_url = '/#' + rel_url.replace(' ', '-')
         elif cur_section_name == 'Calendar':

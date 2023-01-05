@@ -18,8 +18,8 @@ tagline: CSE 447&#58; Natural Language Processing, Winter 2023
 description: 
 author: Sofia Serrano
 baseurl: '/courses/cse447/23wi' # the subpath of your site, e.g. /blog
-url: 'https://serrano-s.github.io' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+url: 'https://courses.cs.washington.edu' # the base hostname & protocol for your site, e.g. http://example.com
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor", "update_search_data.py"]
 
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.3.3

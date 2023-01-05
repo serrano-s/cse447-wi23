@@ -3,8 +3,8 @@
   days:
     - date: 1/4
       topics: Logistics
-      slides:
-      recording:
+      slides: assets/slides/1-Logistics-UndergradNLP-2023wi.pdf
+      recording: https://drive.google.com/file/d/1GZKVqlqFbSvmZhMDq7fTNhjfLgWlFq8Q/view?usp=sharing
       readings:
          - title: Course website, syllabus
       due: Academic Integrity Form out
@@ -129,7 +129,7 @@
         #    link: https://web.stanford.edu/~jurafsky/slp3/9.pdf
         #  - title: Goldberg 10
         #    link: https://arxiv.org/abs/1510.00726
-      due: HW2 Out
+      due: HW2 out
     - date: 2/1
       # topics: Representation learning with neural networks
       slides:
@@ -182,7 +182,7 @@
       topics: Neural networks
       slides:
       recording:
-      supplement: #https://drive.google.com/file/d/1mb4IK7UL5QEShE3zd36soIwHxz_TOm4S/view?usp=sharing
+      supplement:
       readings:
         #  - title: Eis 7.1-7.4, 8.1
         #  - title: Collins notes
@@ -239,6 +239,7 @@
       topics: No class (Presidents' Day)
       readings:
       recording:
+      due: HW3 out
     - date: 2/22
       topics: Neural sequence labeling 
       slides:
@@ -246,7 +247,7 @@
       readings:
          - title: Eis 7.6
       # due: HW2 due, HW3 out
-      due: Quiz 6, HW3 out
+      due: Quiz 6
     - date: 2/24
       topics: Parsing
       slides:
@@ -272,7 +273,8 @@
            link: https://web.stanford.edu/~jurafsky/slp3/14.pdf
       # due: HW3 Out
     - date: 3/1
-      topics: Parsing # "Advanced topics: Summarization"
+      topics: Parsing
+      # "Advanced topics: Summarization"
       slides:
       readings:
          - title: Eis 11.1, 11.3

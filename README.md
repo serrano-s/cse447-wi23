@@ -1,6 +1,6 @@
 # Summary of how to compile
 
-From the root of the repo, run the command `bundle exec jekyll build`.
+From the root of the repo, run the command `bundle exec jekyll build`. (Before this, I also run `update_search_data.py`, but again, there's almost certainly a much cleaner, less-prone-to-edge-cases way of performing that task. Also it seems like in order for people to see the updated search results instead of the un-updated version, they need to clear their browser cache first, but that's a separate issue.)
 
 That will create and populate a directory called `_site`. Then just copy the contents of `_site` up to a CSE server and place them in `/cse/web/courses/cse447/23wi/`.
 

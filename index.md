@@ -10,7 +10,7 @@ seo:
 
 # {{ site.tagline }}
 {: .fs-7 .fw-350 }
-MWF 1:30-2:20pm, ECE 105
+MWF 1:30-2:20pm, CSE2 G01
 {: .fs-6 .fw-300 }
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -146,7 +146,7 @@ In accordance with [UW guidelines](https://www.washington.edu/coronavirus/), we 
 
   --- -->
 
-* **Masking.**  In accordance with UW's masking policy, masks are strongly recommended the first two weeks of the quarter and will be recommended after that, so long as we stay in the CDC’s “low” community level. Given the flexibility in choosing whether to wear a mask or not, please be respectful of others’ choices. Read more about UW's policy [here](https://www.ehs.washington.edu/covid-19-prevention-and-response/face-covering-requirements).
+* **Masking.**  In accordance with UW's masking policy, masks are strongly recommended the first two weeks of the quarter and will be recommended after that, so long as we stay in the CDC’s "low" community level. Given the flexibility in choosing whether to wear a mask or not, please be respectful of others’ choices. Read more about UW's policy [here](https://www.ehs.washington.edu/covid-19-prevention-and-response/face-covering-requirements).
 
   If you would like a mask, please feel free to stop by the reception desk in the Allen Center, where they can provide you your choice of either a KN95/N95 mask or a cloth mask. Additionally, UW mask distribution will continue at various library locations, the Health Sciences Center, the HUB, and testing sites.
   

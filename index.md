@@ -136,7 +136,7 @@ In accordance with [UW guidelines](https://www.washington.edu/coronavirus/), we 
 
 * **Course instruction** The course will be taught in-person only, following the UW guidelines. However, links to recordings of each lecture will be posted on this site by the day following class.
 
-* **Remote access.** If you are sick or have potentially been exposed to COVID-19, **stay home**! While we encourage everyone to attend class in-person when they are well, there will always be a Zoom meeting for the class and there is no penalty for attending remotely. Office hours are also available both in-person and over Zoom (by appointment).
+* **Remote access.** If you are sick or have potentially been exposed to COVID-19, **stay home**! While we encourage everyone to attend class in-person when they are well, there will always be a recording of class posted shortly after each lecture and there is no penalty for missing lecture in person. Office hours are also available both in-person and over Zoom (by appointment).
 
 <!-- When in public, indoor spaces occupied by other people, **you must wear a mask**. This includes class sections and office hours. See more about UW's masking requirements [here](https://www.ehs.washington.edu/covid-19-prevention-and-response/face-covering-requirements). The instructors will abide by the same masking policy.
 

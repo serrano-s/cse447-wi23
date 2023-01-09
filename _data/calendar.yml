@@ -10,8 +10,8 @@
       due: Academic Integrity Form out
     - date: 1/6
       topics: Introduction
-      slides:
-      recording:
+      slides: assets/slides/2-Intro-UndergradNLP-2023wi.pdf
+      recording: https://drive.google.com/file/d/1xM6JxmqlJwFpEXiX3Ho7MXP_GRt0Kq51/view?usp=sharing
       readings:
          - title: Eis 1
       due: HW1 out
@@ -21,7 +21,7 @@
   days:
     - date: 1/9
       topics: Introduction
-      slides:
+      slides: assets/slides/3-Intro-UndergradNLP-2023wi.pdf
       recording: 
       readings:
          - title: Eis 1

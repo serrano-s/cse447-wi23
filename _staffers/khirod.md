@@ -7,4 +7,4 @@ website:
 photo: khirod.jpg
 ---
 
-OH: TBD
+OH: Tuesdays 3-4pm over <a href="https://washington.zoom.us/j/6383881665">Zoom</a>

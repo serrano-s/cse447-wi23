@@ -31,6 +31,8 @@ MWF 1:30-2:20pm, CSE2 G01
 
 ## Announcements
 
+- A1 is out! If you can't see it on GitLab, let us know by replying to [this Ed thread](https://edstem.org/us/courses/32306/discussion/2365366) with your NetID.
+
 - Have anything you'd like to anonymously let the course staff know? You are of course welcome to email us, but feel free to use [this anonymous feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfHu8vkapQJql7S7T15y4_DGT0_Ylrpi587ImnWzO83EgJHPQ/viewform) instead if you'd prefer.
   
 ## Summary

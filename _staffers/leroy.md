@@ -7,6 +7,6 @@ website:
 photo: leroy.jpg
 ---
 
-OH: TBD
+OH: Thursdays 11am-12pm over <a href="https://washington.zoom.us/my/lrywng">Zoom</a>
 
 [comment]: <> (<a href="https://washington.zoom.us/my/lrywng">Zoom</a>)

@@ -7,4 +7,4 @@ website: https://homes.cs.washington.edu/~sofias6/
 photo: sofia.jpg
 ---
 
-OH: TBD
+OH: Wednesdays 3-4pm in person in Allen Center 210

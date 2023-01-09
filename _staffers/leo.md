@@ -1,5 +1,5 @@
 ---
-name: Zeyu (Leo) Liu
+name: Leo Zeyu Liu
 pronouns: 
 role: Teaching Assistant
 email: zeyuliu2@cs.washington.edu
@@ -7,4 +7,4 @@ website: https://leo-liuzy.github.io/
 photo: leo.jpg
 ---
 
-OH: TBD
+OH: Fridays 4:30-5:30pm in person in Allen Center 220

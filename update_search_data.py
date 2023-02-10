@@ -110,6 +110,7 @@ rel_url = '/#' + rel_url.replace(' ', '-')
 def add_calendar_content(cur_content):
     # add to cur_content
     to_add = ' | Week | Date | Topics | Readings | Homeworks | '
+    in_topics_section = False
     with open('_data/calendar.yml', 'r') as cal_f:
         cur_week = None
         row_week = None
@@ -122,6 +123,11 @@ def add_calendar_content(cur_content):
         row_hw = None
         for line in cal_f:
             line = line.strip()
+
+            line_header = line[1:].strip() if line.startswith('-') else line
+            if in_topics_section and not (line_header.startswith('title') or line_header.startswith('link')):
+                in_topics_section = False
+
             if line.startswith('- week:'):
                 week_num = line[line.index(':') + 1:].strip()
                 cur_week = week_num
@@ -172,6 +178,7 @@ def add_calendar_content(cur_content):
                 row_hw = None
             elif line.startswith('topics:'):
                 row_topic = line[line.index(':') + 1:].strip()
+                in_topics_section = True
             elif line.startswith('slides:') and line[line.index(':') + 1:].strip() != '':
                 row_slides = True
             elif line.startswith('recording:') and line[line.index(':') + 1:].strip() != '':
@@ -181,10 +188,14 @@ def add_calendar_content(cur_content):
             elif line.startswith('due:') and line[line.index(':') + 1:].strip() != '':
                 row_hw = line[line.index(':') + 1:].strip()
             elif line.startswith('- title:') and line[line.index(':') + 1:].strip() != '':
-                if row_readings is None:
-                    row_readings = line[line.index(':') + 1:].strip()
+                if in_topics_section:
+                    bit_to_add = line[line.index(':') + 1:].strip()[1:-1].replace('\\"', '"')
+                    row_topic += bit_to_add
                 else:
-                    row_readings += '; ' + line[line.index(':') + 1:].strip()
+                    if row_readings is None:
+                        row_readings = line[line.index(':') + 1:].strip()
+                    else:
+                        row_readings += '; ' + line[line.index(':') + 1:].strip()
     assert row_date is not None and row_topic is not None
     row_str = '. | '
     if row_week is not None:
@@ -225,7 +236,7 @@ def get_staff_member_info(staff_mem):
                 staffer_role = line[line.index(':') + 1:].strip()
             elif line.startswith('email'):
                 email = line[line.index(':') + 1:].strip()
-            elif line.startswith('OH:'):
+            elif line.startswith('Office hours:') or line.startswith('OH:'):
                 office_hours = line.strip()
     assert staffer_name is not None and email is not None and staffer_role is not None and office_hours is not None
     return staffer_role + ':&nbsp; ' + staffer_name + ' . ' + email + ' . ' + office_hours + ' . '

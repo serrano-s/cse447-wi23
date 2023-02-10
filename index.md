@@ -31,7 +31,9 @@ MWF 1:30-2:20pm, CSE2 G01
 
 ## Announcements
 
-- A1 is out! If you can't see it on GitLab, let us know by replying to [this Ed thread](https://edstem.org/us/courses/32306/discussion/2365366) with your NetID.
+- A2 is out on GitLab!
+
+- Quiz 4 is out on Canvas and will be available for you to complete until **Friday 2/10** at 2:20pm; you will have **15 minutes** to complete it once you start. You are allowed to use your notes during the quiz.
 
 - Have anything you'd like to anonymously let the course staff know? You are of course welcome to email us, but feel free to use [this anonymous feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfHu8vkapQJql7S7T15y4_DGT0_Ylrpi587ImnWzO83EgJHPQ/viewform) instead if you'd prefer.
   
@@ -64,7 +66,15 @@ Calendar is tentative and subject to change. More details will be added as the q
         {% endif %}
         <td>{{day.date}}</td>
         <td class="cal-content">
-          {{day.topics}}
+          {%- for topic in day.topics -%}
+             {%-  if topic.link -%}
+                 <a href="{{topic.link}}" class="cal-content-link">{{- topic.title -}}</a>
+             {%- elsif topic.title -%}
+                 {{- topic.title -}}
+             {%- else -%}
+                 {{topic}}
+             {%- endif -%}
+          {%- endfor %}
           <br>
           {% if day.slides %}
             <a href="{{day.slides}}" class="cal-content-link">[slides]</a>
@@ -89,6 +99,12 @@ Calendar is tentative and subject to change. More details will be added as the q
   {% endfor %}
   </tbody>
 </table>
+
+## Google Calendar
+
+Note that this doesn't include class readings and lecture topics; see the calendar table in the previous section for those.
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showCalendars=0&showPrint=0&mode=WEEK&src=Y18wNzUzNWQyMDQ0MmYwOTgwZjhhMWYwNWFiODAzNmM1MmM0ZWY5MTk5NDIwNGMwYTY4NzMxYjQ2YjMzNDdkMTdmQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23E67C73" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Resources
 
@@ -115,7 +131,7 @@ Calendar is tentative and subject to change. More details will be added as the q
 * Quizzes: 10%
     - Starting from the 3rd week, we will have quizzes on Wednesdays.
     - There will be 8 quizzes in total.
-    - Quizzes will be released at the end of class on Canvas and be available for twelve hours. They should take approximately ten minutes to complete.
+    - Quizzes will be released at the end of class on Canvas and be available for 24 hours. They should take approximately ten minutes to complete.
     - 5 best quizzes will be counted into final score. Each quiz will occupy 2% of final score. 
 
 * Participation: 10% bonus
@@ -138,7 +154,7 @@ In accordance with [UW guidelines](https://www.washington.edu/coronavirus/), we 
 
 * **Course instruction** The course will be taught in-person only, following the UW guidelines. However, links to recordings of each lecture will be posted on this site by the day following class.
 
-* **Remote access.** If you are sick or have potentially been exposed to COVID-19, **stay home**! While we encourage everyone to attend class in-person when they are well, there will always be a recording of class posted shortly after each lecture and there is no penalty for missing lecture in person. Office hours are also available both in-person and over Zoom (by appointment).
+* **Remote access.** If you are sick or have potentially been exposed to COVID-19, **stay home**! While we encourage everyone to attend class in-person when they are well, there will always be a recording of class posted shortly after each lecture and there is no penalty for missing lecture in person. Office hours are also available both in-person and over Zoom (by appointment); each staff member's office hours are posted under their name at the top of this webpage.
 
 <!-- When in public, indoor spaces occupied by other people, **you must wear a mask**. This includes class sections and office hours. See more about UW's masking requirements [here](https://www.ehs.washington.edu/covid-19-prevention-and-response/face-covering-requirements). The instructors will abide by the same masking policy.
 

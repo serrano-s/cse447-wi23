@@ -22,21 +22,21 @@
     - date: 1/9
       topics: Introduction
       slides: assets/slides/3-Intro-UndergradNLP-2023wi.pdf
-      recording: 
+      recording: https://drive.google.com/file/d/1kGvaFn3VnG48M0q4K0JRx36ael8SgFfc/view?usp=sharing
       readings:
          - title: Eis 1
     - date: 1/11
       topics: Text classification
-      slides:
-      recording:
+      slides: assets/slides/4-TextClassification-UndergradNLP-2023wi.pdf
+      recording: https://drive.google.com/file/d/1o4u-WdLkvGSqHJOlde9ce4nO28ZEee1c/view?usp=sharing
       readings:
          - title: Eis 2
          - title: J&M III 4
            link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
     - date: 1/13
       topics: Text classification
-      slides:
-      recording:
+      slides: assets/slides/5-TextClassification-UndergradNLP-2023wi.pdf
+      recording: https://drive.google.com/file/d/1nLrtz7zyD2h6QTBfy45uUh74jUeHPh7Q/view?usp=sharing
       readings:
          - title: Eis 2
          - title: J&M III 4
@@ -54,8 +54,8 @@
       recording:
     - date: 1/18
       topics: Text classification
-      slides:
-      recording:
+      slides: assets/slides/6-TextClassification-UndergradNLP-2023wi.pdf
+      recording: https://drive.google.com/file/d/1igDO8RTQavMbvepS75eTpCnPrQA5xeuB/view?usp=sharing
       readings:
          - title: Eis 2
          - title: J&M III 5
@@ -65,8 +65,8 @@
       due: Quiz 1
     - date: 1/20
       topics: Text classification
-      slides:
-      recording:
+      slides: assets/slides/7-TextClassification-UndergradNLP-2023wi.pdf
+      recording: https://drive.google.com/file/d/1CkdtRnqePO_7rQCBqb1pUSaMsc-J8Wzh/view?usp=sharing
       readings:
         #  - title: Eis 2
          - title: J&M III 5
@@ -77,8 +77,8 @@
     - date: 1/23
       # topics: Language modeling
       topics: Text classification
-      slides:
-      recording:
+      slides: assets/slides/8-TextClassification-UndergradNLP-2023wi.pdf
+      recording: https://drive.google.com/file/d/1Ezg4BECB8LNch29ZdLkxQRMILL5D-bSR/view?usp=sharing
       # readings:
       #    - title: J&M III 3
       #      link: https://web.stanford.edu/~jurafsky/slp3/3.pdf
@@ -89,8 +89,8 @@
            link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
     - date: 1/25
       topics: Language modeling
-      slides:
-      recording:
+      slides: assets/slides/9-LanguageModeling-UndergradNLP-2023wi.pdf
+      recording: https://drive.google.com/file/d/1XZ2waCNh_ZOlCtL-a_DNeoy2TrSxAS0j/view?usp=sharing
       readings:
          - title: J&M III 3
            link: https://web.stanford.edu/~jurafsky/slp3/3.pdf
@@ -99,12 +99,14 @@
     - date: 1/27
       # topics: Lexical semantics
       topics: Language modeling
-      slides:
-      recording:
+      slides: assets/slides/10-LanguageModeling-UndergradNLP-2023wi.pdf
+      recording: https://drive.google.com/file/d/1FSKx1z3Qm4u6vsCY5RRi55jARGpZsvsu/view?usp=sharing
       readings:
          - title: J&M III 3
            link: https://web.stanford.edu/~jurafsky/slp3/3.pdf
-         - title: Eis 6.1-6.2, 6.4
+         - title: Eis 6.1-6.2, 6.4, also page 449
+         - title: Sennrich et al. 2016 (sections 1 and 3.2 only)
+           link: https://aclanthology.org/P16-1162.pdf
         #  - title: J&M III 6
         #    link: https://web.stanford.edu/~jurafsky/slp3/6.pdf
         #  - title: Eis 14
@@ -116,12 +118,12 @@
     - date: 1/30
       # topics: Representation learning with neural networks
       topics: Lexical semantics
-      slides:
-      recording:
+      slides: assets/slides/11-LexicalSemantics-UndergradNLP-2023wi.pdf
+      recording: https://drive.google.com/file/d/1-q1oDiBaJh4tA6z7vbWLyxlPwS3NVB02/view?usp=sharing
       readings:
+         - title: Eis 14
          - title: J&M III 6
            link: https://web.stanford.edu/~jurafsky/slp3/6.pdf
-         - title: Eis 14
         #  - title: Eis 6.3, 6.5
         #  - title: J&M III 7.5
         #    link: https://web.stanford.edu/~jurafsky/slp3/7.pdf
@@ -132,9 +134,9 @@
       due: HW2 out
     - date: 2/1
       # topics: Representation learning with neural networks
-      slides:
+      slides: assets/slides/12-LexicalSemantics-UndergradNLP-2023wi.pdf
       topics: Lexical semantics
-      recording:
+      recording: https://drive.google.com/file/d/1tGZDv4Jb2B2IdwZeUJ7egGZ8Jf5SmNEg/view?usp=sharing
       readings:
          - title: Eis 14
          - title: J&M III 6
@@ -149,23 +151,9 @@
       due: Quiz 3
     - date: 2/3
       # topics: Language modeling with neural networks
-      topics: Lexical semantics
-      slides:
-      recording:
-      readings:
-         - title: Eis 14
-         - title: J&M III 6
-           link: https://web.stanford.edu/~jurafsky/slp3/6.pdf
-        #  - title: Peters et al. 2018
-        #    link: https://arxiv.org/abs/1802.05365
-
-- week: 6
-  size: 3
-  days:
-    - date: 2/6
-      topics: Neural networks
-      slides:
-      recording:
+      topics: Neural networks I
+      slides: assets/slides/13-NeuralNetworksI-UndergradNLP-2023wi.pdf
+      recording: https://drive.google.com/file/d/1MAldKJd-__Dv8lCovPNRM-pV5G_yBin9/view?usp=sharing
       readings:
         #  - title: J&M III 8
         #    link: https://web.stanford.edu/~jurafsky/slp3/8.pdf
@@ -178,11 +166,54 @@
            link: https://arxiv.org/abs/1510.00726
          - title: Collobert et al. 2011
            link: https://arxiv.org/abs/1103.0398
+        #  - title: Peters et al. 2018
+        #    link: https://arxiv.org/abs/1802.05365
+
+- week: 6
+  size: 3
+  days:
+    - date: 2/6
+      topics: Sequence labeling
+      slides: assets/slides/14-SequenceLabeling-UndergradNLP-2023wi.pdf
+      recording: https://drive.google.com/file/d/1dBrNzummUeVGtBl9X3UkOfRQctSF-eIX/view?usp=sharing
+      readings:
+         - title: Eis 7.1-7.4, 8.1
+         - title: J&M III 8
+           link: https://web.stanford.edu/~jurafsky/slp3/8.pdf
     - date: 2/8
-      topics: Neural networks
+      topics: Sequence labeling
+      slides: assets/slides/15-SequenceLabeling-UndergradNLP-2023wi.pdf
+      recording: https://drive.google.com/file/d/1Fs_XW5yTFDzdsY6UjGUfic7rlCkb4wyZ/view?usp=sharing
+      supplement:
+      readings:
+         - title: Eis 7.1-7.4, 8.1
+         - title: Collins notes
+           link: http://www.cs.columbia.edu/~mcollins/hmms-spring2013.pdf
+      due: Quiz 4
+    - date: 2/10
+      topics: Sequence labeling
       slides:
       recording:
-      supplement:
+      readings:
+         - title: Eis 7.5, 7.7, 8.3
+         - title: Sutton & McCallum 2.1 - 2.5
+           link: https://arxiv.org/abs/1011.4088
+        #  - title: Collins notes
+          #  link: http://www.cs.columbia.edu/~mcollins/hmms-spring2013.pdf
+
+- week: 7
+  size: 3
+  days:
+    - date: 2/13
+      topics: Neural sequence labeling
+      slides:
+      recording:
+      readings:
+         - title: Eis 7.6
+    - date: 2/15
+      topics: Neural networks II
+      slides:
+      recording:
       readings:
         #  - title: Eis 7.1-7.4, 8.1
         #  - title: Collins notes
@@ -191,44 +222,13 @@
            link: https://nlp.seas.harvard.edu/2018/04/03/attention.html
          - title: Illustrated Transformer
            link: https://jalammar.github.io/illustrated-transformer/
-      due: Quiz 4
-    - date: 2/10
-      topics: Sequence labeling
-      slides:
-      recording:
-      readings:
-         - title: Eis 7.1-7.4, 8.1
-         - title: J&M III 8
-           link: https://web.stanford.edu/~jurafsky/slp3/8.pdf
-        #  - title: Collins notes
-          #  link: http://www.cs.columbia.edu/~mcollins/hmms-spring2013.pdf
-
-- week: 7
-  size: 3
-  days:
-    - date: 2/13
-      topics: Sequence labeling
-      slides:
-      recording:
-      readings:
-         - title: Eis 7.1-7.4, 8.1
-         - title: Collins notes
-           link: http://www.cs.columbia.edu/~mcollins/hmms-spring2013.pdf
-    - date: 2/15
-      topics: Sequence labeling
-      slides:
-      recording:
-      readings:
-         - title: Eis 7.5, 7.7, 8.3
-         - title: Sutton & McCallum 2.1 - 2.5
-           link: https://arxiv.org/abs/1011.4088
       due: Quiz 5
     - date: 2/17
-      topics: Sequence labeling
+      topics: Machine translation
       slides:
       recording:
       readings:
-         - title: Eis 7.6
+         - title: TBA
       due: HW2 due
 
 
@@ -238,17 +238,12 @@
     - date: 2/20
       topics: No class (Presidents' Day)
       readings:
+        #  - title: J&M III 14
+        #    link: https://web.stanford.edu/~jurafsky/slp3/14.pdf
+        #  - title: Eis 11.1-11.3
       recording:
       due: HW3 out
     - date: 2/22
-      topics: Neural sequence labeling 
-      slides:
-      recording:
-      readings:
-         - title: Eis 7.6
-      # due: HW2 due, HW3 out
-      due: Quiz 6
-    - date: 2/24
       topics: Parsing
       slides:
       recording:
@@ -256,10 +251,16 @@
          - title: Eis 10.1-10.2
          - title: J&M III 13
            link: https://web.stanford.edu/~jurafsky/slp3/13.pdf
-        #  - title: J&M III 14
-        #    link: https://web.stanford.edu/~jurafsky/slp3/14.pdf
-        #  - title: Eis 11.1-11.3
-
+      # due: HW2 due, HW3 out
+      due: Quiz 6
+    - date: 2/24
+      topics: Parsing
+      slides:
+      recording:
+      readings:
+         - title: Eis 11.1, 11.3
+         - title: J&M III 14
+           link: https://web.stanford.edu/~jurafsky/slp3/14.pdf
 - week: 9
   size: 3
   days:
@@ -269,47 +270,47 @@
       recording:
       readings:
          - title: Eis 11.1, 11.3
-         - title: J&M III 14
-           link: https://web.stanford.edu/~jurafsky/slp3/14.pdf
+         - title: Chen and Manning 2014
       # due: HW3 Out
     - date: 3/1
-      topics: Parsing
+      topics:
+         - title: "Guest lecture by "
+         - title: "Saadia Gabriel"
+           link: https://homes.cs.washington.edu/~skgabrie/
+         - title: ": \"Socially Responsible and Factual Reasoning for Equitable AI Systems\""
       # "Advanced topics: Summarization"
       slides:
       readings:
-         - title: Eis 11.1, 11.3
-         - title: Chen and Manning 2014
+         - title: TBA
       recording:
       due: Quiz 7
     - date: 3/3
-      topics: "Advanced topics: Recommender systems and online training"
+      topics: "Advanced topics: TBA"
       slides:
       readings:
-         - title: Recommender Systems Lectures
-           link: https://youtube.com/playlist?list=PLaZQkZp6WhWwiSQYhFzpDWWVgz3hodXwr
+          - title: TBA
       recording:
 
 - week: 10
   size: 3
   days:
     - date: 3/6
-      topics: "Research topics: Summarization"
+      topics: "Advanced topics: TBA"
       slides:
       recording:
       readings:
-         - title: Kassas et al. 2021
-           link: https://www.sciencedirect.com/science/article/pii/S0957417420305030
+          - title: TBA
     - date: 3/8
-      topics: "Advanced topics: Computational ethics"
+      topics: "Advanced topics: TBA"
       slides:
-      readings: 
-         - title: The Trouble With Bias
-           link: https://www.youtube.com/watch?v=fMym_BKWQzk
+      readings:
+          - title: TBA
       recording:
       due: Quiz 8
     - date: 3/10
-      topics: "Advanced topics: Natural Language Understanding"
+      topics: "Conclusion and Q&A"
       slides:
       recording:
       readings:
+          - title:
       due: HW3 due

@@ -7,4 +7,4 @@ website: https://leo-liuzy.github.io/
 photo: leo.jpg
 ---
 
-OH: Fridays 4:30-5:30pm in person in Allen Center 220
+Office hours: Fridays 4:30-5:30pm in person in Allen Center 220

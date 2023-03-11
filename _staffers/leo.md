@@ -8,3 +8,5 @@ photo: leo.jpg
 ---
 
 Office hours: Fridays 4:30-5:30pm in person in Allen Center 220
+
+[comment]: <> (<a href="https://washington.zoom.us/my/nlpleo">Zoom</a>)

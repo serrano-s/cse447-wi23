@@ -31,12 +31,17 @@ MWF 1:30-2:20pm, CSE2 G01
 
 ## Announcements
 
-- A2 is out on GitLab!
+* Please do us a favor and **fill out the [end-of-course eval](https://urldefense.com/v3/__https://uw.iasystem.org/survey/269495__;!!K-Hz7m0Vt54!jD2Qu03tlaDqAbgSkWg8CvF2TYZNKRNViplSWeW4LcWplvOZmVahmM59-AMin3wvDejnV5gh2GhTvSBa0vU$) sometime before this Sunday (3/12) at 11:59pm!** It's totally anonymous, and it's the best tool that we have for figuring out what worked/didn't work for the class as a whole, so that we can figure out what we need to change for the future. The next round of 447 students will benefit from your feedback! Thanks in advance!!
+* A3 is due **Friday (3/10)**!
+    - **Don't forget to also submit your `*.preds` files and your writeup pdf (and tag your A3)!** If you're not sure whether those have been uploaded correctly, check [https://gitlab.cs.washington.edu/cse447-wi23/a3/cse447-wi23-a3-**yournetid**/](https://gitlab.cs.washington.edu/cse447-wi23/a3/cse447-wi23-a3-yournetid/) in a browser.
+    - The number of late days you have available to use on A3 is `min(3, 5 - total_late_days_used)`. If you're unsure what this number is for you, please ask us!
+    - We’ll be taking A3 regrade requests from whenever we get A3 grades out to the end of Friday 3/17 (so, probably for 2ish days)
+* Have anything you'd like to anonymously let the course staff know? You are of course welcome to email us, but feel free to use [this anonymous feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfHu8vkapQJql7S7T15y4_DGT0_Ylrpi587ImnWzO83EgJHPQ/viewform) instead if you'd prefer.
 
-- Quiz 4 is out on Canvas and will be available for you to complete until **Friday 2/10** at 2:20pm; you will have **15 minutes** to complete it once you start. You are allowed to use your notes during the quiz.
+<!--
+* Quiz 8 (last one!!) is out on Canvas and will be available for you to complete until **Friday 3/10** at 2:20pm; you will have **15 minutes** to complete it once you start. You are allowed to use your notes during the quiz.
+-->
 
-- Have anything you'd like to anonymously let the course staff know? You are of course welcome to email us, but feel free to use [this anonymous feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfHu8vkapQJql7S7T15y4_DGT0_Ylrpi587ImnWzO83EgJHPQ/viewform) instead if you'd prefer.
-  
 ## Summary
 
 This course will explore foundational statistical techniques for the automatic analysis of natural (human) language text. Towards this end the course will introduce pragmatic formalisms for representing structure in natural language, and algorithms for annotating raw text with those structures. The dominant modeling paradigm is corpus-driven statistical learning, covering both supervised and unsupervised methods. Algorithms for NLP is a lab-based course. This means that instead of homeworks and exams, you will mainly be graded based on three hands-on coding projects.

@@ -192,8 +192,8 @@
       due: Quiz 4
     - date: 2/10
       topics: Sequence labeling
-      slides:
-      recording:
+      slides: assets/slides/16-SequenceLabelingCRF-UndergradNLP-2023wi.pdf
+      recording: https://drive.google.com/file/d/1UWKZTQMxuh6sbkqEzVl4j8Ne2gHaJcfU/view?usp=sharing
       readings:
          - title: Eis 7.5, 7.7, 8.3
          - title: Sutton & McCallum 2.1 - 2.5
@@ -206,14 +206,14 @@
   days:
     - date: 2/13
       topics: Neural sequence labeling
-      slides:
-      recording:
+      slides: assets/slides/17-SequenceLabelingCRF-UndergradNLP-2023wi.pdf
+      recording: https://drive.google.com/file/d/1ChL3UxC-wAbkLkppaWaCibvz-x3EGLFx/view?usp=sharing
       readings:
          - title: Eis 7.6
     - date: 2/15
       topics: Neural networks II
-      slides:
-      recording:
+      slides: assets/slides/18-Transformers-UndergradNLP-2023wi.pdf
+      recording: https://drive.google.com/file/d/1a-O3H2iUY9TD16N_-X9aD_47zFQuIo1h/view?usp=sharing
       readings:
         #  - title: Eis 7.1-7.4, 8.1
         #  - title: Collins notes
@@ -225,10 +225,10 @@
       due: Quiz 5
     - date: 2/17
       topics: Machine translation
-      slides:
-      recording:
+      slides: assets/slides/19-MachineTranslation-UndergradNLP-2023wi.pdf
+      recording: https://drive.google.com/file/d/1X9NeOtcI2gD2ZIU3s2PJuY2BBaeKGMoL/view?usp=sharing
       readings:
-         - title: TBA
+         - title: Eis 18 (skim)
       due: HW2 due
 
 
@@ -245,32 +245,33 @@
       due: HW3 out
     - date: 2/22
       topics: Parsing
-      slides:
-      recording:
+      slides: assets/slides/20-Parsing-UndergradNLP-2023wi.pdf
+      recording: https://drive.google.com/file/d/1kjS8YNOHg9MPv6N-ddkhWOkXr5uz4gw6/view?usp=sharing
       readings:
          - title: Eis 10.1-10.2
-         - title: J&M III 13
-           link: https://web.stanford.edu/~jurafsky/slp3/13.pdf
+         - title: J&M III 17
+           link: https://web.stanford.edu/~jurafsky/slp3/17.pdf
       # due: HW2 due, HW3 out
       due: Quiz 6
     - date: 2/24
       topics: Parsing
-      slides:
-      recording:
+      slides: assets/slides/21-DependencyParsing-UndergradNLP-2023wi.pdf
+      recording: https://drive.google.com/file/d/1DEoT1ucvT48fbbhuMUWlJ9jVL5dJ1q77/view?usp=sharing
       readings:
          - title: Eis 11.1, 11.3
-         - title: J&M III 14
-           link: https://web.stanford.edu/~jurafsky/slp3/14.pdf
+         - title: J&M III 18
+           link: https://web.stanford.edu/~jurafsky/slp3/18.pdf
 - week: 9
   size: 3
   days:
     - date: 2/27
       topics: Parsing
-      slides:
-      recording:
+      slides: assets/slides/22-DependencyParsing-UndergradNLP-2023wi.pdf
+      recording: https://drive.google.com/file/d/1fIsuobbVHr-GwfKMeZARuBTeBLVwiDsn/view?usp=sharing
       readings:
          - title: Eis 11.1, 11.3
          - title: Chen and Manning 2014
+           link: https://aclanthology.org/D14-1082.pdf
       # due: HW3 Out
     - date: 3/1
       topics:
@@ -279,38 +280,66 @@
            link: https://homes.cs.washington.edu/~skgabrie/
          - title: ": \"Socially Responsible and Factual Reasoning for Equitable AI Systems\""
       # "Advanced topics: Summarization"
-      slides:
+      slides: https://drive.google.com/file/d/1trcTna69BCGPv9LYplJlU6BNvEyRoNIm/view?usp=sharing
       readings:
-         - title: TBA
-      recording:
+         - title: Gabriel et al. 2022
+           link: https://aclanthology.org/2022.acl-long.222.pdf
+         - title: (Optional) Any part of the ACL 2020 tutorial on commonsense reasoning that piques your interest (can browse slide decks or view recorded talks)
+           link: https://maartensap.com/acl2020-commonsense/
+      recording: https://drive.google.com/file/d/1cOmuFtonPvoI58d4-UekCnFZmr9JHkXu/view?usp=sharing
       due: Quiz 7
     - date: 3/3
-      topics: "Advanced topics: TBA"
-      slides:
+      topics:
+          - title: "Guest lecture by "
+          - title: "Alane Suhr"
+            link: https://www.alanesuhr.com/
+          - title: " on multimodal NLP and grounding for NLP"
+      slides: assets/slides/24-SuhrGuestLecture-UndergradNLP-2023wi.pdf
       readings:
-          - title: TBA
-      recording:
+          - title: Bisk et al. 2020
+            link: https://aclanthology.org/2020.emnlp-main.703.pdf
+      recording: https://drive.google.com/file/d/1adQImMDA_AkA7dDYKhovugxPjuZbijJn/view?usp=sharing
 
 - week: 10
   size: 3
   days:
     - date: 3/6
-      topics: "Advanced topics: TBA"
-      slides:
-      recording:
+      topics:
+          - title: "Guest lecture by "
+          - title: "Sewon Min"
+            link: https://shmsw25.github.io/
+          - title: " on prompting and in-context learning with large language models"
+      slides: assets/slides/25-MinGuestLecture-UndergradNLP-2023wi.pdf
+      recording: https://drive.google.com/file/d/1L6yMN4bDrvgojTdT9KI3PCIEdRhkhrlD/view?usp=sharing
       readings:
-          - title: TBA
+          - title: GPT-3 paper (pages 3-7 only)
+            link: https://arxiv.org/pdf/2005.14165.pdf
+          - title: Blog post on in-context learning
+            link: https://ai.stanford.edu/blog/in-context-learning/
+          - title: Blog post on how in-context learning works
+            link: https://ai.stanford.edu/blog/understanding-incontext/
     - date: 3/8
-      topics: "Advanced topics: TBA"
-      slides:
+      topics:
+          - title: "Guest lecture by "
+          - title: "Akari Asai"
+            link: https://akariasai.github.io/
+          - title: " on multilingual NLP"
+      slides: https://drive.google.com/file/d/1yPXB1RpwIBUKHEUgnnfr3gcuoIM8K26H/view?usp=sharing
       readings:
-          - title: TBA
-      recording:
+          - title: "\"The State of Multilingual AI\" blog post"
+            link: https://www.ruder.io/state-of-multilingual-ai/
+          - title: (Optional) Conneau et al. 2020
+            link: https://aclanthology.org/2020.acl-main.747.pdf
+          - title: (Optional) Hu et al. 2020
+            link: http://proceedings.mlr.press/v119/hu20b/hu20b.pdf
+          - title: (Optional) Lauscher et al. 2020
+            link: https://aclanthology.org/2020.emnlp-main.363.pdf
+      recording: https://drive.google.com/file/d/1-XqHw6E6vg1pUl54l7E1UQcDL-qzQ6-0/view?usp=sharing
       due: Quiz 8
     - date: 3/10
       topics: "Conclusion and Q&A"
-      slides:
-      recording:
+      slides: assets/slides/27-Conclusion-UndergradNLP-2023wi.pdf
+      recording: https://drive.google.com/file/d/1GoG3XovGaAHeFsKvdyStw_2KUKsgkC2p/view?usp=sharing
       readings:
           - title:
       due: HW3 due

@@ -35,7 +35,7 @@ MWF 1:30-2:20pm, CSE2 G01
 * A3 is due **Friday (3/10)**!
     - **Don't forget to also submit your `*.preds` files and your writeup pdf (and tag your A3)!** If you're not sure whether those have been uploaded correctly, check [https://gitlab.cs.washington.edu/cse447-wi23/a3/cse447-wi23-a3-**yournetid**/](https://gitlab.cs.washington.edu/cse447-wi23/a3/cse447-wi23-a3-yournetid/) in a browser.
     - The number of late days you have available to use on A3 is `min(3, 5 - total_late_days_used)`. If you're unsure what this number is for you, please ask us!
-    - We’ll be taking A3 regrade requests from whenever we get A3 grades out to the end of Friday 3/17 (so, probably for 2ish days)
+    - We’ll be taking A3 regrade requests (as private posts on [Ed](https://edstem.org/us/courses/32306/)) from whenever we get A3 grades out through the end of Friday 3/17 (so, probably for 2ish days)
 * Have anything you'd like to anonymously let the course staff know? You are of course welcome to email us, but feel free to use [this anonymous feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfHu8vkapQJql7S7T15y4_DGT0_Ylrpi587ImnWzO83EgJHPQ/viewform) instead if you'd prefer.
 
 <!--

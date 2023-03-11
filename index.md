@@ -32,7 +32,7 @@ MWF 1:30-2:20pm, CSE2 G01
 ## Announcements
 
 * Please do us a favor and **fill out the [end-of-course eval](https://urldefense.com/v3/__https://uw.iasystem.org/survey/269495__;!!K-Hz7m0Vt54!jD2Qu03tlaDqAbgSkWg8CvF2TYZNKRNViplSWeW4LcWplvOZmVahmM59-AMin3wvDejnV5gh2GhTvSBa0vU$) sometime before this Sunday (3/12) at 11:59pm!** It's totally anonymous, and it's the best tool that we have for figuring out what worked/didn't work for the class as a whole, so that we can figure out what we need to change for the future. The next round of 447 students will benefit from your feedback! Thanks in advance!!
-* A3 is due **Friday (3/10)**!
+* A3 is due **Friday 3/10**!
     - **Don't forget to also submit your `*.preds` files and your writeup pdf (and tag your A3)!** If you're not sure whether those have been uploaded correctly, check [https://gitlab.cs.washington.edu/cse447-wi23/a3/cse447-wi23-a3-**yournetid**/](https://gitlab.cs.washington.edu/cse447-wi23/a3/cse447-wi23-a3-yournetid/) in a browser.
     - The number of late days you have available to use on A3 is `min(3, 5 - total_late_days_used)`. If you're unsure what this number is for you, please ask us!
     - We’ll be taking A3 regrade requests (as private posts on [Ed](https://edstem.org/us/courses/32306/)) from whenever we get A3 grades out through the end of Friday 3/17 (so, probably for 2ish days)
